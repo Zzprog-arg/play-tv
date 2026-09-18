@@ -1,0 +1,434 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="-------------Locales---------------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Locales.svg" group-title="Locales",-------------Locales---------------
+http://planettvweb.com:8091/Facu663/FD45gh23u/12809
+
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Locales",Telefe
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/12.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telefe Canal 7 Juj" tvg-logo="http://puntoz.net/LOGOS/Canal_Siete_Jujuy.png" group-title="Locales",Telefe Canal 7 Jujuy
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/123943.ts
+#EXTINF:-1 tvg-id="AMERICA TV" tvg-name="America " tvg-logo="http://guiaepg.lat/LOGOS/americatvar.png" group-title="Locales",America 
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/11.ts
+#EXTINF:-1 tvg-id="ELNueve.ar" tvg-name="El Nueve" tvg-logo="https://i.postimg.cc/MT3CrmCs/Canal-9-ba-logo.png" group-title="Locales",El Nueve
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/29.ts
+#EXTINF:-1 tvg-id="ELTrece.ar" tvg-name="El Trece" tvg-logo="https://i.postimg.cc/HWRGw34L/Logo-Canal-13-200-8.png" group-title="Locales",El Trece
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/34.ts
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica" tvg-logo="https://i.postimg.cc/hPBkZvwY/1280px-TVP-Television-Publica-(2021)-svg.png" group-title="Locales",TV Publica
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/26.ts
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Locales",A24
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/40.ts
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN NOTICIAS" tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Locales",TN NOTICIAS
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/14.ts
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="ARGENTINISIMA" tvg-logo="https://i.postimg.cc/fbnqyrs4/latest-(20).png" group-title="Locales",ARGENTINISIMA
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/10.ts
+#EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Locales",Volver
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/28.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Noticias" tvg-logo="http://puntoz.net/LOGOS/247noticias.png" group-title="Locales",24/7 Noticias
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/5.ts
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="" tvg-logo="https://i.postimg.cc/gjQPrH4v/C5N-Logo-2015.png" group-title="Locales",
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1493.ts
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://i.postimg.cc/3Rbg4kG3/images-q-tbn-ANd9Gc-Se0i-OYk-MVUv8b-RSmev324PVm-Iah3Lbnmk-a-A-s.png" group-title="Locales",Canal 26
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/17.ts
+#EXTINF:-1 tvg-id="" tvg-name="LN+ " tvg-logo="http://puntoz.net/LOGOS/ln.png" group-title="Locales",LN+ 
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/7.ts
+#EXTINF:-1 tvg-id="CRONICA TV" tvg-name="Cronica " tvg-logo="http://puntoz.net/LOGOS/cronica.png" group-title="Locales",Cronica 
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/27.ts
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png/revision/latest?cb=20220113152551&path-prefix=es" group-title="Locales",Telemax
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/22.ts
+#EXTINF:-1 tvg-id="ElGarageTv.ar" tvg-name="Garage TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest?cb=20210525001901&path-prefix=es" group-title="Locales",Garage TV
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/20.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/207_Orbe_21.jpg" group-title="Locales",
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/123934.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Juj" tvg-logo="http://puntoz.net/LOGOS/Canal-4-Jujuy.png" group-title="Locales",Canal 4 Juj
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/47.ts
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="CIUDAD MAGAZINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-0odv_2wgxZHAqMfic5Q9Qh9eKutgZ3F0A&s" group-title="Locales",CIUDAD MAGAZINE
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/30.ts
+#EXTINF:-1 tvg-id="" tvg-name="America Tucumán" tvg-logo="http://puntoz.net/LOGOS/America_Tucuman.png" group-title="Locales",America Tucumán
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/24.ts
+#EXTINF:-1 tvg-id="" tvg-name="Metro " tvg-logo="http://puntoz.net/LOGOS/metro.png" group-title="Locales",Metro 
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="9 Multivision" tvg-logo="http://puntoz.net/LOGOS/multivision1.png" group-title="Locales",9 Multivision
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/16.ts
+
+
+
+
+--------------------------------------------------------------INFANTILES--------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://i.ibb.co/xH8KR8C/babyfirts.png" group-title="INFANTILES",Baby First
+http://redworld.pro:8880/62braw2Nyv3K/tfzQFfA7R8VE/321968
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="http://redworld.pro:8880/images/637e562dbf5fd427957eb42dcd838054.png" group-title="INFANTILES",BABY TV
+http://redworld.pro:8880/62braw2Nyv3K/tfzQFfA7R8VE/321969
+#EXTINF:-1 tvg-id="CartoonNetwork.ar" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/b78pLRW/cartuyuthtg.png" group-title="INFANTILES",Cartoon Network
+http://redworld.pro:8880/62braw2Nyv3K/tfzQFfA7R8VE/321974
+#EXTINF:-1 tvg-id="Cartoonito.ar" tvg-name="CARTOONITO" tvg-logo="https://i.ibb.co/y5GYMn4/cartihjgjh.png" group-title="INFANTILES",CARTOONITO
+http://redworld.pro:8880/62braw2Nyv3K/tfzQFfA7R8VE/321975
+#EXTINF:-1 tvg-id="DiscoveryKids.ar" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/4tQzkbt/discovere4r4e.png" group-title="INFANTILES",Discovery Kids
+http://redworld.pro:8880/62braw2Nyv3K/tfzQFfA7R8VE/321976
+#EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-name="Disney Channel" tvg-logo="https://i.ibb.co/L0tyPPn/disner3e3w.pnghttps://i.ibb.co/L0tyPPn/disner3e3w.png" group-title="INFANTILES",Disney Channel
+http://redworld.pro:8880/62braw2Nyv3K/tfzQFfA7R8VE/321978
+#EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-name="Disney Junior" tvg-logo="https://i.ibb.co/5kVKd6g/disneyjre3.png" group-title="INFANTILES",Disney Junior
+http://redworld.pro:8880/62braw2Nyv3K/tfzQFfA7R8VE/321981
+#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="http://redworld.pro:8880/images/3b20a55bd85dcd304da6ac81000a30c7.png" group-title="INFANTILES",NICK
+http://redworld.pro:8880/62braw2Nyv3K/tfzQFfA7R8VE/321982
+#EXTINF:-1 tvg-id="Nick.co" tvg-name="NICKELODEON" tvg-logo="https://i.postimg.cc/k4QXtZLm/1280px-Nickelodeon-2023-logo-(outline)-svg.png" group-title="INFANTILES",NICKELODEON
+http://redworld.pro:8880/62braw2Nyv3K/tfzQFfA7R8VE/321984
+#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS" tvg-logo="http://redworld.pro:8880/images/2c60790cd9470a61cf2e3c265f9589de.png" group-title="INFANTILES",NICKTOONS
+http://redworld.pro:8880/62braw2Nyv3K/tfzQFfA7R8VE/321985
+
+
+--------------------------------------------------------------CINE--------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" tvg-logo="https://i.ibb.co/58VvdgP/hbo1.png" group-title="PACK HBO",HBO
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134313.ts
+#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="PACK HBO",HBO 2
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134314.ts
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/HVFhb7C/hbo-3.png" group-title="PACK HBO",HBO PLUS
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134315.ts
+#EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/bPRQG6P/hboext1.png" group-title="PACK HBO",HBO XTREME
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134316.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Zone" tvg-logo="http://puntoz.net/LOGOS/hbozone1.png" group-title="PACK HBO",HBO Zone
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134317.ts
+#EXTINF:-1 tvg-id="HBOPop.ar" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/vxK0tVp/hbopop3.png" group-title="PACK HBO",HBO POP
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134318.ts
+#EXTINF:-1 tvg-id="HBOSignature.ar" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/BwRLTk1/hbosig1.png" group-title="PACK HBO",HBO SIGNATURE
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134319.ts
+#EXTINF:-1 tvg-id="HBOFamily.ar" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="PACK HBO",HBO FAMILY
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134320.ts
+#EXTINF:-1 tvg-id="HBOMundi.ar" tvg-name="HBO MUNDI" tvg-logo="https://i.ibb.co/GHngdzz/hbomun3.png" group-title="PACK HBO",HBO MUNDI
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268286.ts
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="CINE PREMIUM",AMC
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134321.ts
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="AXN" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="CINE PREMIUM",AXN
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134322.ts
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="CINE PREMIUM",CINECANAL
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134323.ts
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="CINE PREMIUM",CINEMAX
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134324.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Zone" tvg-logo="http://puntoz.net/LOGOS/cinezonemas.png" group-title="CINE PREMIUM",Cine Zone
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134327.ts
+#EXTINF:-1 tvg-id="0858" tvg-name="Claro Cinema" tvg-logo="http://puntoz.net/LOGOS/clarocimanew2.png" group-title="CINE PREMIUM",Claro Cinema
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134328.ts
+#EXTINF:-1 tvg-id="Canal.De.Película.mx" tvg-name="DPelicula" tvg-logo="http://puntoz.net/LOGOS/depelicula1.png" group-title="CINE PREMIUM",DPelicula
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134329.ts
+#EXTINF:-1 tvg-id="0867" tvg-name="DPelicula Clasico" tvg-logo="http://puntoz.net/LOGOS/depeliculaclasico1.png" group-title="CINE PREMIUM",DPelicula Clasico
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134330.ts
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="EUROPA EUROPA" tvg-logo="https://i.ibb.co/SKbQ4mG/euroapa.png" group-title="CINE PREMIUM",EUROPA EUROPA
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134331.ts
+#EXTINF:-1 tvg-id="DHE.us" tvg-name="DHE" tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="CINE PREMIUM",DHE
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/130.ts
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX" tvg-logo="https://i.ibb.co/z2PqF2T/FX1.png" group-title="CINE PREMIUM",FX
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134332.ts
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="http://puntoz.net/LOGOS/fxm.png" group-title="CINE PREMIUM",FXM
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134333.ts
+#EXTINF:-1 tvg-id="Golden.ar" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="CINE PREMIUM",GOLDEN
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134334.ts
+#EXTINF:-1 tvg-id="GOLDEN HD.co" tvg-name="GOLDEN PLUS" tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="CINE PREMIUM",GOLDEN PLUS
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134335.ts
+#EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER" tvg-logo="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="CINE PREMIUM",MULTIPREMIER
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134339.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="http://puntoz.net/LOGOS/Paramount.png" group-title="CINE PREMIUM",Paramount
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134340.ts
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Extreme" tvg-logo="http://puntoz.net/LOGOS/showtimextreme.png" group-title="CINE PREMIUM",Showtime Extreme
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134341.ts
+#EXTINF:-1 tvg-id="SONYCH" tvg-name="SONY CHANNEL" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="CINE PREMIUM",SONY CHANNEL
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/330520.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Cine" tvg-logo="http://puntoz.net/LOGOS/sonycinenew.png" group-title="CINE PREMIUM",Sony Cine
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134342.ts
+#EXTINF:-1 tvg-id="SONY MOVIES" tvg-name="SONY MOVIES" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="CINE PREMIUM",SONY MOVIES
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/299234.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="http://puntoz.net/LOGOS/sonymax.png" group-title="CINE PREMIUM",Sony Max
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134343.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sab" tvg-logo="http://puntoz.net/LOGOS/sonysab.png" group-title="CINE PREMIUM",Sony Sab
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134344.ts
+#EXTINF:-1 tvg-id="Space.ar" tvg-name="SPACE" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="CINE PREMIUM",SPACE
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134345.ts
+#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="STAR CHANNEL" tvg-logo="https://i.ibb.co/fSbvx7T/STAR22.png" group-title="CINE PREMIUM",STAR CHANNEL
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134346.ts
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://puntoz.net/LOGOS/syfynew.png" group-title="CINE PREMIUM",SYFY
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134352.ts
+#EXTINF:-1 tvg-id="TCM.ar" tvg-name="TCM" tvg-logo="https://i.ibb.co/340KS9Y/tcm2.png" group-title="CINE PREMIUM",TCM
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134353.ts
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="CINE PREMIUM",TNT SERIES
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134354.ts
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT" tvg-logo="https://i.ibb.co/DwLT1NH/TNT2.png" group-title="CINE PREMIUM",TNT
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134355.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="http://puntoz.net/LOGOS/universaltv.png" group-title="PACK UNIVERSAL",Universal Channel
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134356.ts
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://i.ibb.co/NrFxsBV/UNIVERSALCIEN.png" group-title="PACK UNIVERSAL",Universal CINEMA
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134357.ts
+#EXTINF:-1 tvg-id="UniversalComedy.ar" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://i.ibb.co/TBLRttd/UNIVESALCOMEDY.png" group-title="PACK UNIVERSAL",Universal COMEDY
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134358.ts
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-name="UNIVERSAL CRIME" tvg-logo="https://i.ibb.co/Rj4HpMq/UNIVESALCRIME.png" group-title="PACK UNIVERSAL",Universal CRIME
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134359.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premier" tvg-logo="http://puntoz.net/LOGOS/universalpremier.png" group-title="PACK UNIVERSAL",Universal Premier
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134360.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Realty" tvg-logo="http://puntoz.net/LOGOS/Universal_Reality.png" group-title="PACK UNIVERSAL",Universal Realty
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134361.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="http://puntoz.net/LOGOS/Warnertv.png" group-title="CINE PREMIUM",Warner Channel
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134362.ts
+#EXTINF:-1 tvg-id="Canal.Lifetime.(México).mx" tvg-name="Lifetime" tvg-logo="http://puntoz.net/LOGOS/lifetime1.png" group-title="CINE PREMIUM",Lifetime
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/144026.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Espanol" tvg-logo="http://puntoz.net/LOGOS/starzencoreenespanol.png" group-title="CINE PREMIUM",Starz Encore Espanol
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268295.ts
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/kmQCLLM/STUDI2.png" group-title="PACK UNIVERSAL",STUDIO UNIVERSAL
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268302.ts
+#EXTINF:-1 tvg-id="Canal.USA.Network.(México).mx" tvg-name="USA Network" tvg-logo="http://puntoz.net/LOGOS/USA-Network.png" group-title="CINE PREMIUM",USA Network
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/283487.ts
+#EXTINF:-1 tvg-id="panico.tv" tvg-name="Panico" tvg-logo="http://puntoz.net/LOGOS/panico.png" group-title="CINE PREMIUM",Panico
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/138032.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Famili" tvg-logo="http://puntoz.net/LOGOS/cinefamiliarnew.png" group-title="CINE PREMIUM",Cine Famili
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134325.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Premium" tvg-logo="http://puntoz.net/LOGOS/cinepremiumnew.png" group-title="CINE PREMIUM",Cine Premium
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134326.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Hispano" tvg-logo="http://guiaepg.lat/LOGOS/ccinehispano.png" group-title="CINE PREMIUM",Cine Hispano
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/137993.ts
+#EXTINF:-1 tvg-id="Cinelatino.ar" tvg-name="CINE LATINO" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="CINE PREMIUM",CINE LATINO
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268267.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Familia" tvg-logo="http://guiaepg.lat/LOGOS/ultrafamilia.png" group-title="CINE PREMIUM",Ultra Familia
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/137494.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Clasico" tvg-logo="http://guiaepg.lat/LOGOS/ultraclasiconew.png" group-title="CINE PREMIUM",Ultra Clasico
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/137496.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Cine" tvg-logo="http://guiaepg.lat/LOGOS/ultracinenew.png" group-title="CINE PREMIUM",Ultra Cine
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/137504.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Macho" tvg-logo="http://guiaepg.lat/LOGOS/ultramachonew2.png" group-title="CINE PREMIUM",Ultra Macho
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/137533.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Film" tvg-logo="http://guiaepg.lat/LOGOS/ultrafilmnew.png" group-title="CINE PREMIUM",Ultra Film
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/137536.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mexicano" tvg-logo="http://guiaepg.lat/LOGOS/cinemexicanonew.png" group-title="CINE PREMIUM",Cine Mexicano
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/137475.ts
+#EXTINF:-1 tvg-id="" tvg-name="Creo Latino cine" tvg-logo="http://guiaepg.lat/LOGOS/creolatinotucine.png" group-title="CINE PREMIUM",Creo Latino cine
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268876.ts
+#EXTINF:-1 tvg-id="CINESTE" tvg-name="CINE ESTEL" tvg-logo="https://i.ibb.co/gMMxZ5h/cineestelar.png" group-title="CINE PREMIUM",CINE ESTEL
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/546.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cindie TV" tvg-logo="http://guiaepg.lat/LOGOS/cindietv.png" group-title="CINE PREMIUM",Cindie TV
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139529.ts
+#EXTINF:-1 tvg-id="Canal.AMC.Series.(México).mx" tvg-name="AMC Series" tvg-logo="http://puntoz.net/LOGOS/amcseries.png" group-title="CINE PREMIUM",AMC Series
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/425210.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Cinema" tvg-logo="http://puntoz.net/LOGOS/star.cinema.png" group-title="CINE PREMIUM",Star Cinema
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/134347.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA DINAMITA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdhHNGUXvj4712PUyB0mttusQuIukdirpEsw&s" group-title="CINE PREMIUM",CINEMA DINAMITA
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/357891.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE ESTEL" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE11xX_87DwKcT6NrOk6xJ_GiLa49LlXtbIfDCmQCyzmRs.png" group-title="CINE PREMIUM",CINE ESTEL
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268266.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX EAST" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1_xm0j5P2e5PzRszy7D-Yx8QF0ZK_PEp_Sq8C_S54DUW.png" group-title="CINE PREMIUM",CINEMAX EAST
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268269.ts
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula 2" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1yHhoRhTP70rr1ksmAs3DULEpmwLgj5siXi2rfJ14f8aFFUZxGWb7j-sNfhtUzDFcg.png" group-title="CINE PREMIUM",De Pelicula 2
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268271.ts
+#EXTINF:-1 tvg-id="DEPELC" tvg-name="DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="CINE PREMIUM",DE PELICULA CLASICO
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268272.ts
+#EXTINF:-1 tvg-id="DEPELPL" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="CINE PREMIUM",DE PELICULA PLUS
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268273.ts
+#EXTINF:-1 tvg-id="DE PELICULA" tvg-name="DE PELICULA" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="CINE PREMIUM",DE PELICULA
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268274.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX CHANNEL" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE15HHzRcFrxCGRUsq_JyZRs3tNj6V-lgtqQ5DGJUeTMDi.png" group-title="CINE PREMIUM",FOX CHANNEL
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268276.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX PREMIUM" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE17-lAMwWjrjda03RNWnOXrvBHrX6z2WnozdnCY5Ghrm-.png" group-title="CINE PREMIUM",FX PREMIUM
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268277.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golden 2" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE100LDBwGpPj9InWBd1LS9WRo3gOcmc1P2GMlLx2FgWsN.png" group-title="CINE PREMIUM",Golden 2
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268278.ts
+#EXTINF:-1 tvg-id="GoldenEdge.ar" tvg-name="GOLDEN EDGE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg/revision/latest?cb=20120110075418" group-title="CINE PREMIUM",GOLDEN EDGE
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268279.ts
+#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE PREMIUM",GOLDEN PREMIER
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268281.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO LATINO" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1w9VF6QlZElod2MW2vp5GrPJAhGIy08B-T3wh8oKKSl4.png" group-title="PACK HBO",HBO LATINO
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268285.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO PREMIUM" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE171CCmtxKVFIjBagMg3-Ndjvy6VAnCM7AUoxYYPfWmxI.png" group-title="PACK HBO",HBO PREMIUM
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268290.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Movie" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE12d5nx9SjWmMGDE22a2MDw8Nc2mNF3dkfCBAGYpsv_t7.png" group-title="CINE PREMIUM",Paramount Movie
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268297.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME EXTREME LATINO" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE16RtyP81Vgopzk3QT1rNWAp0ZhbW0DvPSBr1KvOVtvr-.png" group-title="CINE PREMIUM",SHOWTIME EXTREME LATINO
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268298.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME LATINO" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE16RtyP81Vgopzk3QT1rNWAp0ZhbW0DvPSBr1KvOVtvr-.png" group-title="CINE PREMIUM",SHOWTIME LATINO
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268299.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1_JbQw7eAXtN1AeSA4tJpCxdJXP_s5bQR5bNSBESWmiO.png" group-title="CINE PREMIUM",SONY
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268300.ts
+#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE" tvg-logo="http://onerestream.us:80/images/QjSeU3keF4YpIALmJ3KE1-DRlVxf-jyGotlES5bhLCoRzf7zjnyBM3SshLcn3E5l.png" group-title="CINE PREMIUM",STARZ ENCORE
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268301.ts
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="PACK UNIVERSAL",Universal PREMIERE
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268309.ts
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/dcZ8bsY/UNIVESALREA.png" group-title="PACK UNIVERSAL",Universal REALITY
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268310.ts
+#EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="UNIVERSAL" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="PACK UNIVERSAL",Universal
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268311.ts
+#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="WARNER" tvg-logo="https://i.ibb.co/jHC94Xm/WARTNER3.png" group-title="CINE PREMIUM",WARNER
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/299235.ts
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(México).mx" tvg-name="Animal Planet" tvg-logo="http://guiaepg.lat/LOGOS/animalplanetnew2.png" group-title="CULTURA",Animal Planet
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139546.ts
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="http://puntoz.net/LOGOS/lovenaturenew.png" group-title="CULTURA",Love Nature
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/298754.ts
+#EXTINF:-1 tvg-id="" tvg-name="Naturaleza Salvaje" tvg-logo="http://guiaepg.lat/LOGOS/naturalezasalvaje.png" group-title="CULTURA",Naturaleza Salvaje
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/332498.ts
+#EXTINF:-1 tvg-id="" tvg-name="Curiosity Channel" tvg-logo="http://guiaepg.lat/LOGOS/curiositychannel.png" group-title="CULTURA",Curiosity Channel
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139539.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery en Espanol" tvg-logo="http://puntoz.net/LOGOS/discoveryenespa%C3%B1ol.png" group-title="CULTURA",Discovery en Espanol
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139522.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(México).mx" tvg-name="Discovery Channel (LA)" tvg-logo="http://puntoz.net/LOGOS/discoverynuevo.png" group-title="CULTURA",Discovery Channel (LA)
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139549.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(México).mx" tvg-name="Discovery Channel." tvg-logo="http://guiaepg.lat/LOGOS/discoverynew.png" group-title="CULTURA",Discovery Channel.
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139523.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="http://puntoz.net/LOGOS/hyhnew2.png" group-title="CULTURA",Discovery H&H
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139525.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="http://puntoz.net/LOGOS/discoveryworld.png" group-title="CULTURA",Discovery World
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139530.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC" tvg-logo="http://puntoz.net/LOGOS/tlc.png" group-title="CULTURA",Discovery TLC
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139538.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia" tvg-logo="http://puntoz.net/LOGOS/discoveryfamilianew.png" group-title="CULTURA",Discovery Familia
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/331133.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Science.(Latinoamérica).mx" tvg-name="Discovery Science" tvg-logo="http://guiaepg.lat/LOGOS/discoveryscnew.png" group-title="CULTURA",Discovery Science
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/143996.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).mx" tvg-name="Discovery Theater" tvg-logo="http://puntoz.net/LOGOS/discoverytheater.png" group-title="CULTURA",Discovery Theater
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139553.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).mx" tvg-name="Discovery Turbo" tvg-logo="http://puntoz.net/LOGOS/discoveryturbonew.png" group-title="CULTURA",Discovery Turbo
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139554.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Discovery" tvg-logo="http://puntoz.net/LOGOS/discoveryinvestigationnuevo.png" group-title="CULTURA",ID Discovery
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139534.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Discovery (Oeste)" tvg-logo="http://puntoz.net/LOGOS/discoveryinvestigationnuevo.png" group-title="CULTURA",ID Discovery (Oeste)
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139548.ts
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="http://guiaepg.lat/LOGOS/dmaxnew.png" group-title="CULTURA",DMAX
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/141194.ts
+#EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="http://puntoz.net/LOGOS/Odiseanew.png" group-title="CULTURA",Odisea
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/141224.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://puntoz.net/LOGOS/hgtv.png" group-title="CULTURA",HGTV
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/144019.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://puntoz.net/LOGOS/foodnetwork.png" group-title="CULTURA",Food Network
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/528.ts
+#EXTINF:-1 tvg-id="" tvg-name="TravelXP Latino" tvg-logo="http://guiaepg.lat/LOGOS/travelxplatino.png" group-title="CULTURA",TravelXP Latino
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/144043.ts
+#EXTINF:-1 tvg-id="" tvg-name="On Tour Channel" tvg-logo="http://puntoz.net/LOGOS/ontourchannel.png" group-title="CULTURA",On Tour Channel
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139527.ts
+#EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="http://puntoz.net/LOGOS/historianew.png" group-title="CULTURA",Historia
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139532.ts
+#EXTINF:-1 tvg-id="" tvg-name="History en Espanol" tvg-logo="http://puntoz.net/LOGOS/historyenespanolnuevo.png" group-title="CULTURA",History en Espanol
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/313126.ts
+#EXTINF:-1 tvg-id="" tvg-name="History Oeste" tvg-logo="http://puntoz.net/LOGOS/history.png" group-title="CULTURA",History Oeste
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139533.ts
+#EXTINF:-1 tvg-id="Canal.History.(México).mx" tvg-name="History" tvg-logo="http://puntoz.net/LOGOS/historyp.png" group-title="CULTURA",History
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/268862.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 History" tvg-logo="http://guiaepg.lat/LOGOS/h2history.png" group-title="CULTURA",H2 History
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139540.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="http://puntoz.net/LOGOS/natgeo.png" group-title="CULTURA",NatGeo
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139536.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Mundo" tvg-logo="http://puntoz.net/LOGOS/natgeomundo.png" group-title="CULTURA",NatGeo Mundo
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139543.ts
+#EXTINF:-1 tvg-id="Canal.National.Geographic.(México).mx" tvg-name="National Geographic" tvg-logo="http://guiaepg.lat/LOGOS/natgeoes.png" group-title="CULTURA",National Geographic
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139537.ts
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo Wild" tvg-logo="http://guiaepg.lat/LOGOS/natgeowildnew.png" group-title="CULTURA",Natgeo Wild
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139559.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Docu" tvg-logo="http://guiaepg.lat/LOGOS/ultradocunew.png" group-title="CULTURA",Ultra Docu
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/137514.ts
+#EXTINF:-1 tvg-id="AandE.ar" tvg-name="A&E" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="CULTURA",A&E
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/143980.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gourmet" tvg-logo="http://puntoz.net/LOGOS/elgourmet.png" group-title="CULTURA",Gourmet
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/144018.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mundo y Sabor" tvg-logo="http://puntoz.net/LOGOS/Mundoysabor.png" group-title="CULTURA",Mundo y Sabor
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/275008.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tu Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWU-laCl_qcbvnWZkAXXtcynuSHf0aqKRQiV_uwIG27A&s=10" group-title="CULTURA",Tu Discovery
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/332499.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aventura" tvg-logo="http://guiaepg.lat/LOGOS/warneraventura.png" group-title="CULTURA",Aventura
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/332500.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vidas Extremas" tvg-logo="http://guiaepg.lat/LOGOS/warnervidasextremas.png" group-title="CULTURA",Vidas Extremas
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/332501.ts
+#EXTINF:-1 tvg-id="" tvg-name="Crimen" tvg-logo="http://guiaepg.lat/LOGOS/warnercrimen.png" group-title="CULTURA",Crimen
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/332502.ts
+#EXTINF:-1 tvg-id="" tvg-name="Expedientes Sobrenaturales" tvg-logo="http://guiaepg.lat/LOGOS/warnerexpeedieentessobrenaturalees.png" group-title="CULTURA",Expedientes Sobrenaturales
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/332503.ts
+#EXTINF:-1 tvg-id="" tvg-name="Contrucciones Asombrosas" tvg-logo="http://guiaepg.lat/LOGOS/warnerconstruccionesasombrososas.png" group-title="CULTURA",Contrucciones Asombrosas
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/332504.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bodas" tvg-logo="http://guiaepg.lat/LOGOS/warnerbodas.png" group-title="CULTURA",Bodas
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/332505.ts
+#EXTINF:-1 tvg-id="" tvg-name="WOBI" tvg-logo="http://puntoz.net/LOGOS/wobinew.png" group-title="CULTURA",WOBI
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139544.ts
+#EXTINF:-1 tvg-id="" tvg-name="I N T I" tvg-logo="http://guiaepg.lat/LOGOS/inti.png" group-title="CULTURA",I N T I
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/144021.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW Español" tvg-logo="http://puntoz.net/LOGOS/dwep.png" group-title="CULTURA",DW Español
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/144001.ts
+#EXTINF:-1 tvg-id="" tvg-name="KNino" tvg-logo="http://guiaepg.lat/LOGOS/Knino.png" group-title="CULTURA",KNino
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/139550.ts
+
+
+
+--------------------------------------------------------------DEPORTES--------------------------------------------------------------
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTV" tvg-logo="http://puntoz.net/LOGOS/deporttv.png" group-title="Deportes",DEPORTV
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/8.ts
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Deportes",
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/32.ts
+#EXTINF:-1 tvg-id="ElGarageTv.ar" tvg-name="Garage TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest?cb=20210525001901&path-prefix=es" group-title="Deportes",Garage TV
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/105477.ts
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_03/large.TNTSportsCL.png.16208cc25cd2cc1c1270c36c2f44986a.png" group-title="Deportes",TNT Sports Premium
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/39.ts
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Deportes",TyC Sports
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS INTERNACIONAL" tvg-logo="https://i.ibb.co/LS29sRf/tycsportinterna.png" group-title="Deportes",TYC SPORTS INTERNACIONAL
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/31.ts
+
+--------------------------------------------------------------DEPORTES UY--------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 10" tvg-logo="https://img.onesignal.com/t/d9ed626c-7932-46ae-a235-29f1fd04b586.png" group-title="ANTENA URUGUAYA",CANAL 10
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1739.ts
+#EXTINF:-1 tvg-id="CANAL.12.HD.uy" tvg-name="Canal 12 Teledoce" tvg-logo="https://yt3.googleusercontent.com/C2i3XoUq_FewOJCSJviHVqKk3XHc8PE3DMHpHqWueexlpZus-2r_7DEes5bKtM0LVJVlbquDEw=s900-c-k-c0x00ffffff-no-rj" group-title="ANTENA URUGUAYA",Canal 12 Teledoce
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1740.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CIUDAD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="ANTENA URUGUAYA",TV CIUDAD
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1741.ts
+#EXTINF:-1 tvg-id="VTV+.HD.uy" tvg-name="A+V" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQcM7fvuTvnDq49LD1Qi84a_ljb4VhXam6w&s" group-title="ANTENA URUGUAYA",A+V
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1743.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 4 PAYSANDU" tvg-logo="https://pbs.twimg.com/profile_images/623905507414278144/m2Olr7dp_400x400.png" group-title="ANTENA URUGUAYA",CANAL 4 PAYSANDU
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1744.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 12" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png" group-title="ANTENA URUGUAYA",Canal 12
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1746.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="ANTENA URUGUAYA",CANAL 4
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1747.ts
+#EXTINF:-1 tvg-id="TN..uy" tvg-name="TNU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5xVDt8iVsmZFbzrbp7aJk6iK_U3mIYPo-g&s" group-title="ANTENA URUGUAYA",TNU
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1754.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmazu_pflSjk_x54gbUrIlkQZ1syksqVV4-YQs7dW9Lro9l0EySoicwxbRA6DDp6qeess&usqp=CAU" group-title="ANTENA URUGUAYA",CANAL 5
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1756.ts
+#EXTINF:-1 tvg-id="LA.RED.uy" tvg-name="LA RED" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzlRq_Cgql4krSj7FVbkqLjP8Lb2-5mXAEQ&s" group-title="ANTENA URUGUAYA",LA RED
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1759.ts
+#EXTINF:-1 tvg-id="CANAL.5..uy" tvg-name="Canal 4 F" tvg-logo="https://yt3.googleusercontent.com/NXkjWOZ7v07Cg-OGgUlQSUwCBtWn0Iq3aiUs4ATN5hlWTU474wZ-voqKuj1MYk7d9KnEvwWVKkI=s900-c-k-c0x00ffffff-no-rj" group-title="ANTENA URUGUAYA",Canal 4 F
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1761.ts
+#EXTINF:-1 tvg-id="CANAL.10.HD.uy" tvg-name="Canal 10 F" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_np0rr7qb_zGRxwTYJXxFGXeVAoGKrlPj8s4SUyJwsRLA=s900-c-k-c0x00ffffff-no-rj" group-title="ANTENA URUGUAYA",Canal 10 F
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1762.ts
+#EXTINF:-1 tvg-id="" tvg-name="UCL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpO40_BSrspGc547RU8nhSfvHbAwOv4WDlcQ&s" group-title="ANTENA URUGUAYA",UCL
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/107967.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIVO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMA_2MnETxSTdvhqCdu4sneauAIvSoQGcXFw&s" group-title="ANTENA URUGUAYA",VIVO TV
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/107968.ts
+#EXTINF:-1 tvg-id="CANAL.11.HD.uy" tvg-name="CANAL 11 LAS PIEDRAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ2Xv2Byr1Ese0chsH0PpgcoypPRhi8b-1_g&s" group-title="ANTENA URUGUAYA",CANAL 11 LAS PIEDRAS
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/141971.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 7 PUNTA" tvg-logo="https://www.coolstreaming.us/img/ch/image95453271503.jpg" group-title="ANTENA URUGUAYA",CANAL 7 PUNTA
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/141972.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 8 ARTIGAS" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE15_CYvl6tbNPkEXUkR2tJbtlYdaS1DpzCMlnzw5AtiOd.png" group-title="ANTENA URUGUAYA",CANAL 8 ARTIGAS
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/141973.ts
+#EXTINF:-1 tvg-id="CANAL.A.HD.uy" tvg-name="CANAL 8 SALTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2efNqgNQ9kOgkzjUYB6Zs40-P_wVz2R0lQ&s" group-title="ANTENA URUGUAYA",CANAL 8 SALTO
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/141974.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZyoonTV" tvg-logo="https://cdn.m3u.cl/logo/1691_ZyoonTV.png" group-title="ANTENA URUGUAYA",ZyoonTV
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/259889.ts
+#EXTINF:-1 tvg-id="CANAL.5..uy" tvg-name="Canal 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0WGd7YG0jED9B19zNWvOJ_itne8rn-P2lGw&s" group-title="ANTENA URUGUAYA",Canal 8
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/290319.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="Deportes UY",VTV
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1742.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="Deportes UY",VTV PLUS
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1749.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV URUGUAY 1" tvg-logo="http://playlist3456544.ddns.net:8080/images/bcc26bd1cb617f8484fb853ad3fd9a2d.jpg" group-title="Deportes UY",PPV URUGUAY 1
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/1757.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV + Uruguay" tvg-logo="https://i.postimg.cc/d0gTf8rh/Sin-t-tulo-28-removebg-preview.png" group-title="Deportes UY",VTV + Uruguay
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/133742.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUFTV" tvg-logo="https://play-lh.googleusercontent.com/_6_dRL6xVuSjMKAEXjzqhLhKcZbHJzRZ65irOQYW9LUoRba0KQc5rDfg_nq6YC6kjeE" group-title="Deportes UY",AUFTV
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/153326.ts
+#EXTINF:-1 tvg-id="" tvg-name="D-SP⚽RTS Uruguay" tvg-logo="https://jplayerpro.com/img/dsp.png" group-title="Deportes UY",D-SP⚽RTS Uruguay
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/297716.ts
+#EXTINF:-1 tvg-id="TYC.SPORTS..uy" tvg-name="1️⃣ DSPORTS #1" tvg-logo="https://resellermv.com/img/dsportslat.png" group-title="Deportes UY",1️⃣ DSPORTS #1
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/304834.ts
+#EXTINF:-1 tvg-id="TYC.SPORTS..uy" tvg-name="2️⃣ DSPORTS #2" tvg-logo="https://resellermv.com/img/dsportslat.png" group-title="Deportes UY",2️⃣ DSPORTS #2
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/304835.ts
+#EXTINF:-1 tvg-id="TYC.SPORTS..uy" tvg-name="3️⃣ DSPORTS #3" tvg-logo="https://resellermv.com/img/dsportslat.png" group-title="Deportes UY",3️⃣ DSPORTS #3
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/304836.ts
+#EXTINF:-1 tvg-id="" tvg-name="D-SP0RTS Premium Uruguay (AUF)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQM03zmjbDqoRqg_gl_0g2IeKXcEtjPYIpdg&s" group-title="Deportes UY",D-SP0RTS Premium Uruguay (AUF)
+http://innovatechhost.xyz:2095/live/JarolPerezNV/Perez2023/462791.ts
