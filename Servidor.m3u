@@ -355,8 +355,6 @@ http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/46176.ts
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/46178.ts
 #EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="STAR CHANNEL" tvg-logo="https://i.ibb.co/fSbvx7T/STAR22.png" group-title="✮CINE PREMIUM✮",STAR CHANNEL
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/46186.ts
-#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/kmQCLLM/STUDI2.png" group-title="PACK UNIVERSAL",STUDIO UNIVERSAL
-http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/46217.ts
 #EXTINF:-1 tvg-id="" tvg-name="USA" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9971D1071C-seeklogo.com.png" group-title="✮CINE PREMIUM✮",USA
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/46222.ts
 #EXTINF:-1 tvg-id="TLNovelas.ar" tvg-name="TNT NOVELAS" tvg-logo="https://i.postimg.cc/43pfGW7C/Fo4or-BXs-AAs-JIL.png" group-title="✮CINE PREMIUM✮",TNT NOVELAS
@@ -367,12 +365,33 @@ http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/46230.ts
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/46236.ts
 #EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="✮CINE PREMIUM✮",TNT SERIES
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/46240.ts
-#EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="UNIVERSAL" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="✮CINE PREMIUM✮",UNIVERSAL
-http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/46244.ts
 #EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="WARNER TV" tvg-logo="https://i.ibb.co/TRgfNRw/WARNERTV2.png" group-title="✮CINE PREMIUM✮",WARNER TV
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/46248.ts
 #EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="WARNER" tvg-logo="https://i.ibb.co/jHC94Xm/WARTNER3.png" group-title="✮CINE PREMIUM✮",WARNER
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/46250.ts
+
+--------------------------------------------------------------✈CULTURA✈--------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD | MX" tvg-logo="https://i.ibb.co/wgfpK2W/3245325437656876ty.png" group-title="✈CULTURA✈",History Channel
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/79479.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 History HD (DTV)" tvg-logo="https://i.ibb.co/0BGSc13/h2cahne.png" group-title="✈CULTURA✈",H2 History
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/79477.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD | AR" tvg-logo="https://i.ibb.co/sCY6fYc/cfdetf435433.png" group-title="✈CULTURA✈",National Geographic
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/79486.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Mundo" tvg-logo="https://i.ibb.co/D57vhdZ/24324342545.png" group-title="✈CULTURA✈",NatGeo Mundo
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/79488.ts
+#EXTINF:-1 tvg-id="Animal Planet.co" tvg-name="Animal Planet  | AR HD" tvg-logo="https://i.ibb.co/JqYBgn5/lgit878888.png" group-title="✈CULTURA✈",Animal Planet
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/79447.ts
+
+
+--------------------------------------------------------------PACK UNIVERSAL--------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="UNIVERSAL" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="PACK UNIVERSAL",UNIVERSAL
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/46244.ts
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/kmQCLLM/STUDI2.png" group-title="PACK UNIVERSAL",STUDIO UNIVERSAL
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/46217.ts
 #EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/dcZ8bsY/UNIVESALREA.png" group-title="PACK UNIVERSAL",UNIVERSAL REALITY
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/90077.ts
 #EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://i.ibb.co/NrFxsBV/UNIVERSALCIEN.png" group-title="PACK UNIVERSAL",UNIVERSAL CINEMA
@@ -382,7 +401,26 @@ http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/90079.ts
 #EXTINF:-1 tvg-id="UniversalComedy.ar" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://i.ibb.co/TBLRttd/UNIVESALCOMEDY.png" group-title="PACK UNIVERSAL",UNIVERSAL COMEDY
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/90081.ts
 #EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="PACK UNIVERSAL",UNIVERSAL PREMIERE
-http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/90082.TyC_Sports
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/90082.ts
+
+--------------------------------------------------------------Discovery ID--------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel | AR" tvg-logo="https://i.ibb.co/HtqyD0b/ddffds.png" group-title="Discovery ID",Discovery Channel
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/79453.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD (DTV)" tvg-logo="https://i.ibb.co/v3vWJPP/5436t5gfdvbcnhgjkiopl.png" group-title="Discovery ID",Discovery ID
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/79458.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health | AR" tvg-logo="https://i.ibb.co/bdL2MpV/hyh.png" group-title="Discovery ID",Discovery Home & Health
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/79459.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science | AR" tvg-logo="https://i.ibb.co/K7MrFNm/543gdr44.png" group-title="Discovery ID",Discovery Science
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/79463.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://i.ibb.co/k3Yb7Ff/teheat.png" group-title="Discovery ID",Discovery Theater
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/79464.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD (DTV)" tvg-logo="https://i.ibb.co/rdd22kL/34t5regdfgdsfcssxz.png" group-title="Discovery ID",Discovery Turbo
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/79465.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD  | AR" tvg-logo="https://i.ibb.co/D9TxF6V/discworsd.png" group-title="Discovery ID",Discovery World
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/79468.ts
+
+
 
 
 --------------------------------------------------------------Pack Hbo--------------------------------------------------------------
@@ -408,6 +446,8 @@ http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/96207.ts
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/140365.ts
 #EXTINF:-1 tvg-id="CINESTE" tvg-name="CINE ESTELAR" tvg-logo="https://i.ibb.co/gMMxZ5h/cineestelar.png" group-title="✮CINE PREMIUM✮",CINE ESTELAR
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/148901.ts
+
+
 
 
 
