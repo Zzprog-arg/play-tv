@@ -1,6 +1,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="-------------Locales---------------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Locales.svg" group-title="Locales",-------------Locales---------------
 http://planettvweb.com:8091/Facu663/FD45gh23u/12809
-
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24 FHD" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Locales",Especial
+https://cdn02.gigared.com.ar/live/eds/Telefe/sa_live_dash/Telefe.mpd
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24 FHD" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Locales",A24
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/712702.ts
