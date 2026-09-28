@@ -68,7 +68,7 @@ http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/712753.ts
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/712754.ts
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" group-title="Deportes",TYC SPORTS SENSA
 https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?ck=eyI1M2QwY2Y2YzFkNDljMTZmNTE4MGY4NmUxODcwYjAwZiI6IjdlYjY3NDNiNWY0NGI1MmJhMjdjODgyMjljOGM3YWUyIn0%3D&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjAifQ%3D%3D
-#EXTINF:-1 tvg-id="TYCSports" clearkey="53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2",TyC Sports Sensa 2.1
+#EXTINF:-1 tvg-id="TYCSports" clearkey="53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2",TyC Sports Sensa 2.2
 #EXTVLCOPT:referer=https://player.sensa.com.ar/&webtoken=1.0
 https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
 
