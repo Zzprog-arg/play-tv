@@ -2,7 +2,17 @@
 http://planettvweb.com:8091/Facu663/FD45gh23u/12809
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24 FHD" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Locales",Especial
 https://cdn02.gigared.com.ar/live/eds/Telefe/sa_live_dash/Telefe.mpd
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"53d0cf6c1d49c16f5180f86e1870b00f":"7eb6743b5f44b52ba27c88229c8c7ae2"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 group-title="1",1
+https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
+#EXTINF:-1 tvg-id="TYCSports" clearkey="53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2",TyC Sports Sensa4.1
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 tvg-id="TYCSports" clearkey="53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2",TyC Sports sensa 5.0
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+https://smt-usr-edge05.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
+https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24 FHD" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Locales",A24
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/712702.ts
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV FHD" tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="Locales",America TV
