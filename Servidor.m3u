@@ -28,7 +28,7 @@ http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/712711.ts
 #EXTINF:-1 tvg-id="LN+.ar" tvg-name="La Nación + HD" tvg-logo="https://i.postimg.cc/mZvLLTn0/f500x333-807353-831156-5050.jpg" group-title="Locales",La Nación +
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/712713.ts
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe FHD" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Locales",Telefe sensa
-http://192.168.1.44:8787/hls/canal_1/stream.m3u8
+http://192.168.1.44:8787/hls/Telefe/stream.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="TN NOTICIAS" tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Locales",TN NOTICIAS
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/712718.ts
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica FHD" tvg-logo="https://i.postimg.cc/hPBkZvwY/1280px-TVP-Television-Publica-(2021)-svg.png" group-title="Locales",TV Publica
