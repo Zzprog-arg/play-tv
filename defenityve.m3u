@@ -1,4 +1,4 @@
-Update 1.4.3
+Update 1.4.15
 
 
 
@@ -45,7 +45,7 @@ https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key={"775d4113d76beac8231e92ed732e27d6":"0854a56be655bfa9055ef0e4980f4674"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://qn-01282-rsc-1-01-1---7482-vm9d.http.global.dns.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxNTAxNTkwIiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwNThmMGMyNzRjMTI2ZDlkIiwic2Vzc2lvbl9pZCI6IjhhNWU4OTQ5MTVlMGZlNjM3MzI1M2JiMmI3MTkzODc5LTE3OTEzMjg3OTAtNzMzIiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDA4MDQxMjMtLWZsb3c6OTk5OTAwMDAwODA0MTIzOlAiLCJkZXZpY2VfaWQiOiI4YTVlODk0OTE1ZTBmZTYzNzMyNTNiYjJiNzE5Mzg3OSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzU1Iiwic291cmNlcyI6WzIxMCw4Nl19.CLDLarXW9Zxh12fzf_f3ktSSIu3cKm44t-Q9Avfsv1-A1-u0t7tViYyuwMIQqerTmGCc78uD2iMoYO6JrlUSsw==/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
+https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxNTE0MzUwIiwic2lwIjoiMTkwLjE3NS41MS45NCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UeUNTcG9ydC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDYyM2M4NjhjMTdhNzU1MSIsInNlc3Npb25faWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1Zi0xNzkxMzQxNTUwLTYxMyIsImNsaWVudF9pZCI6ImZsb3c6MzgxMjA3OS0tZmxvdzozODEyMDc5OlAiLCJkZXZpY2VfaWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1ZiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.QdnbnyEY1K1l9blDeBQ7X0CLWthLL1BDcPkiSl4VcMEfVGiMVYAnw-YxciwR7uQFV1r4r7xHulEwa4cxokrD_w==/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
 
 
 #EXTINF:-1 tvg-id="LaNacion+.ar" tvg-logo="https://i.postimg.cc/dtnjTfgB/LN.png" group-title="Nacional",La Nación + 
@@ -421,13 +421,34 @@ https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxNTE0MzUwIiwic2lwIjoiMTkwLjE3NS41MS45NCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UeUNTcG9ydC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDYyM2M4NjhjMTdhNzU1MSIsInNlc3Npb25faWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1Zi0xNzkxMzQxNTUwLTYxMyIsImNsaWVudF9pZCI6ImZsb3c6MzgxMjA3OS0tZmxvdzozODEyMDc5OlAiLCJkZXZpY2VfaWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1ZiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.QdnbnyEY1K1l9blDeBQ7X0CLWthLL1BDcPkiSl4VcMEfVGiMVYAnw-YxciwR7uQFV1r4r7xHulEwa4cxokrD_w==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
 
+#EXTINF:-1 tvg-id="1436" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png" group-title="Deportes",FOX Sports 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=37730b00a5f92084c47a8129e84559f3:a2e20a45a057ff4e7c0bc2ad49e6f3e5
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxNTE0MzUwIiwic2lwIjoiMTkwLjE3NS41MS45NCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UeUNTcG9ydC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDYyM2M4NjhjMTdhNzU1MSIsInNlc3Npb25faWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1Zi0xNzkxMzQxNTUwLTYxMyIsImNsaWVudF9pZCI6ImZsb3c6MzgxMjA3OS0tZmxvdzozODEyMDc5OlAiLCJkZXZpY2VfaWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1ZiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.QdnbnyEY1K1l9blDeBQ7X0CLWthLL1BDcPkiSl4VcMEfVGiMVYAnw-YxciwR7uQFV1r4r7xHulEwa4cxokrD_w==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
+
+#EXTINF:-1 tvg-id="1437" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png" group-title="Deportes",FOX Sports 2 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b0ab680ef94a1842185fa78a830cbd7:23129ab5572aeda7607c920655c0dbea 
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxNTE0MzUwIiwic2lwIjoiMTkwLjE3NS41MS45NCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UeUNTcG9ydC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDYyM2M4NjhjMTdhNzU1MSIsInNlc3Npb25faWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1Zi0xNzkxMzQxNTUwLTYxMyIsImNsaWVudF9pZCI6ImZsb3c6MzgxMjA3OS0tZmxvdzozODEyMDc5OlAiLCJkZXZpY2VfaWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1ZiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.QdnbnyEY1K1l9blDeBQ7X0CLWthLL1BDcPkiSl4VcMEfVGiMVYAnw-YxciwR7uQFV1r4r7xHulEwa4cxokrD_w==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd
+
+#EXTINF:-1 tvg-id="1438" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-3-ar.png" group-title="Deportes",FOX Sports 3 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4629bd0ae30c0e72af111fb948fada1c":"7864154c679e769e7f164ba083c8fad3"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxNTE0MzUwIiwic2lwIjoiMTkwLjE3NS41MS45NCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UeUNTcG9ydC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDYyM2M4NjhjMTdhNzU1MSIsInNlc3Npb25faWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1Zi0xNzkxMzQxNTUwLTYxMyIsImNsaWVudF9pZCI6ImZsb3c6MzgxMjA3OS0tZmxvdzozODEyMDc5OlAiLCJkZXZpY2VfaWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1ZiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.QdnbnyEY1K1l9blDeBQ7X0CLWthLL1BDcPkiSl4VcMEfVGiMVYAnw-YxciwR7uQFV1r4r7xHulEwa4cxokrD_w==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e95fe84b9f73e6655fde711d5c896056:267a0e514deb984803bec43cc607c4cb
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-name="ESPN" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="Deportes 🇺🇾 ",ESPN 🇺🇾 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://qn-01282-rsc-1-01-1---7482-vm9d.http.global.dns.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxNTAxNTkwIiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwNThmMGMyNzRjMTI2ZDlkIiwic2Vzc2lvbl9pZCI6IjhhNWU4OTQ5MTVlMGZlNjM3MzI1M2JiMmI3MTkzODc5LTE3OTEzMjg3OTAtNzMzIiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDA4MDQxMjMtLWZsb3c6OTk5OTAwMDAwODA0MTIzOlAiLCJkZXZpY2VfaWQiOiI4YTVlODk0OTE1ZTBmZTYzNzMyNTNiYjJiNzE5Mzg3OSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzU1Iiwic291cmNlcyI6WzIxMCw4Nl19.CLDLarXW9Zxh12fzf_f3ktSSIu3cKm44t-Q9Avfsv1-A1-u0t7tViYyuwMIQqerTmGCc78uD2iMoYO6JrlUSsw==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd
+https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxNTE0MzUwIiwic2lwIjoiMTkwLjE3NS41MS45NCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UeUNTcG9ydC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDYyM2M4NjhjMTdhNzU1MSIsInNlc3Npb25faWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1Zi0xNzkxMzQxNTUwLTYxMyIsImNsaWVudF9pZCI6ImZsb3c6MzgxMjA3OS0tZmxvdzozODEyMDc5OlAiLCJkZXZpY2VfaWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1ZiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.QdnbnyEY1K1l9blDeBQ7X0CLWthLL1BDcPkiSl4VcMEfVGiMVYAnw-YxciwR7uQFV1r4r7xHulEwa4cxokrD_w==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd
 
 
 
@@ -609,12 +630,15 @@ https://099ed2f3014c41e78f3c7bc29b21bc11.mediatailor.us-east-1.amazonaws.com/v1/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxNTE0MzUwIiwic2lwIjoiMTkwLjE3NS41MS45NCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UeUNTcG9ydC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDYyM2M4NjhjMTdhNzU1MSIsInNlc3Npb25faWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1Zi0xNzkxMzQxNTUwLTYxMyIsImNsaWVudF9pZCI6ImZsb3c6MzgxMjA3OS0tZmxvdzozODEyMDc5OlAiLCJkZXZpY2VfaWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1ZiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.QdnbnyEY1K1l9blDeBQ7X0CLWthLL1BDcPkiSl4VcMEfVGiMVYAnw-YxciwR7uQFV1r4r7xHulEwa4cxokrD_w==/live/c4eds/DSports_Uruguay_Premium/SA_Live_dash_enc_wl/DSports_Uruguay_Premium.mpd
 
+
+
+
 #EXTINF:-1 tvg-id="DSportsUyPremium" tvg-name="DSPORT UY PREMIUM" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsportsuruguaypremium.png" group-title="Deportes 🇺🇾",DSports PREMIUM 🇺🇾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"86d19904429f78baf98cf1fd481c430e":"5229197732a9a3e109264b272bd782f2"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://qn-01282-rsc-1-01-1---7482-vm9d.http.global.dns.qwilted-cds.cqloud.com/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxNTAxNTkwIiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwNThmMGMyNzRjMTI2ZDlkIiwic2Vzc2lvbl9pZCI6IjhhNWU4OTQ5MTVlMGZlNjM3MzI1M2JiMmI3MTkzODc5LTE3OTEzMjg3OTAtNzMzIiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDA4MDQxMjMtLWZsb3c6OTk5OTAwMDAwODA0MTIzOlAiLCJkZXZpY2VfaWQiOiI4YTVlODk0OTE1ZTBmZTYzNzMyNTNiYjJiNzE5Mzg3OSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzU1Iiwic291cmNlcyI6WzIxMCw4Nl19.CLDLarXW9Zxh12fzf_f3ktSSIu3cKm44t-Q9Avfsv1-A1-u0t7tViYyuwMIQqerTmGCc78uD2iMoYO6JrlUSsw==/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd?ck=eyI4NmQxOTkwNDQyOWY3OGJhZjk4Y2YxZmQ0ODFjNDMwZSI6IjUyMjkxOTc3MzJhOWEzZTEwOTI2NGIyNzJiZDc4MmYyIn0%3D&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly9wb3J0YWwuYXBwLmZsb3cuY29tLmFyIiwib3JpZ2luIjoiaHR0cHM6Ly9wb3J0YWwuYXBwLmZsb3cuY29tLmFyIn0%3D
+https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxNTE0MzUwIiwic2lwIjoiMTkwLjE3NS41MS45NCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UeUNTcG9ydC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDYyM2M4NjhjMTdhNzU1MSIsInNlc3Npb25faWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1Zi0xNzkxMzQxNTUwLTYxMyIsImNsaWVudF9pZCI6ImZsb3c6MzgxMjA3OS0tZmxvdzozODEyMDc5OlAiLCJkZXZpY2VfaWQiOiJkYWEyMThiZDU1NGUxZWQ4M2MxYThmOGE2OTc4YTk1ZiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjM1MyIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.QdnbnyEY1K1l9blDeBQ7X0CLWthLL1BDcPkiSl4VcMEfVGiMVYAnw-YxciwR7uQFV1r4r7xHulEwa4cxokrD_w==/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd?ck=eyI4NmQxOTkwNDQyOWY3OGJhZjk4Y2YxZmQ0ODFjNDMwZSI6IjUyMjkxOTc3MzJhOWEzZTEwOTI2NGIyNzJiZDc4MmYyIn0%3D&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly9wb3J0YWwuYXBwLmZsb3cuY29tLmFyIiwib3JpZ2luIjoiaHR0cHM6Ly9wb3J0YWwuYXBwLmZsb3cuY29tLmFyIn0%3D
 
 
 LPF Play
@@ -1360,8 +1384,19 @@ http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565506.mkv
 http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565507.mkv
 
 
-#EXTINF:-1 tvg-id="" tvg-name="F1 la película (2025)" tvg-logo="" group-title="CINE 2025 - (LAT)",F1 la película (2025)
-http://avefenixtv.com/movie/arielprimousaamigo1/SnG8ZBa9jh/1722942.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="Spide_man.flow" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/ysZybx9-rSEh00_swqaZ5A?tags=TEXT,VERTICAL" group-title="Peliculas Flow",Spider-Man: Lejos de casa
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010040008828803-Spiderman__Lejos_de/_/vod_dash/MMMM0010040008828803-Spiderman__Lejos_de.mpd
 
-
+#EXTINF:-1 tvg-id="" port="https://staticm11.app.flow.com.ar/images/content/400/600/o5At3boaXQrkNQ650vv2Tg?tags=TEXT,VERTICAL" tvg-name="Cautiva.flow" tvg-logo="https://staticm11.app.flow.com.ar/images/content/384/216/HnV5Bb2F00W1vyveoqhKPg?tags=HORIZONTAL" group-title="Series Flow",Cautiva S02E06
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026587803-Cautiva_T1_E01/_/vod_dash/MMMM0010000026587803-Cautiva_T1_E01.mpd
+#EXTINF:-1 tvg-id="" port="https://staticm11.app.flow.com.ar/images/content/400/600/o5At3boaXQrkNQ650vv2Tg?tags=TEXT,VERTICAL" tvg-name="Cautiva.flow" tvg-logo="https://staticm11.app.flow.com.ar/images/content/384/216/cNNKvg6jRZPHwkwcbwZPLA?tags=HORIZONTAL" group-title="Series Flow",Cautiva S02E06
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026588303-Cautiva_T1_E02/_/vod_dash/MMMM0010000026588303-Cautiva_T1_E02.mpd
+#EXTINF:-1 tvg-id="" port="https://staticm11.app.flow.com.ar/images/content/400/600/o5At3boaXQrkNQ650vv2Tg?tags=TEXT,VERTICAL" tvg-name="Cautiva.flow" tvg-logo="https://staticm11.app.flow.com.ar/images/content/384/216/CPZwhMUz9utBDAbmqje3YQ?tags=HORIZONTAL" group-title="Series Flow",Cautiva S02E06
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026587803-Cautiva_T1_E01/_/vod_dash/MMMM0010000026587803-Cautiva_T1_E03.mpd
+#EXTINF:-1 tvg-id="" port="https://staticm11.app.flow.com.ar/images/content/400/600/o5At3boaXQrkNQ650vv2Tg?tags=TEXT,VERTICAL" tvg-name="Cautiva.flow" tvg-logo="https://staticm11.app.flow.com.ar/images/content/384/216/XR7uh-1uXzUF9mgUBj0IEw?tags=HORIZONTAL" group-title="Series Flow",Cautiva S02E06
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026587803-Cautiva_T1_E01/_/vod_dash/MMMM0010000026587803-Cautiva_T1_E04.mpd
+#EXTINF:-1 tvg-id="" port="https://staticm11.app.flow.com.ar/images/content/400/600/o5At3boaXQrkNQ650vv2Tg?tags=TEXT,VERTICAL" tvg-name="Cautiva.flow" tvg-logo="https://staticm11.app.flow.com.ar/images/content/384/216/Qw8aqId9i8sWqdKiXSrsKQ?tags=HORIZONTAL" group-title="Series Flow",Cautiva S02E06
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026587803-Cautiva_T1_E01/_/vod_dash/MMMM0010000026587803-Cautiva_T1_E05.mpd
+#EXTINF:-1 tvg-id="" port="https://staticm11.app.flow.com.ar/images/content/400/600/o5At3boaXQrkNQ650vv2Tg?tags=TEXT,VERTICAL" tvg-name="Cautiva.flow" tvg-logo="https://staticm11.app.flow.com.ar/images/content/384/216/e6tdt66haFPW_wnfbQsK3A?tags=HORIZONTAL" group-title="Series Flow",Cautiva S02E06
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026587803-Cautiva_T1_E01/_/vod_dash/MMMM0010000026587803-Cautiva_T1_E06.mpd
