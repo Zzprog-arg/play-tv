@@ -1,4 +1,4 @@
-Update 1.4.18.2
+Update 1.5.0
 
 
 
@@ -1382,15 +1382,48 @@ http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565506.mkv
 http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565507.mkv
 
 
+#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/ysZybx9-rSEh00_swqaZ5A?tags=VERTICAL" group-title="Peliculas Flow",Spiderman: Un nuevo día
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026808803-Spiderman__Un_nuevo/_/vod_dash/MMMM0010000026808803-Spiderman__Un_nuevo.mpd
 
 #EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/ysZybx9-rSEh00_swqaZ5A?tags=VERTICAL" group-title="Peliculas Flow",Spider-Man: Lejos de casa
 https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010040008828803-Spiderman__Lejos_de/_/vod_dash/MMMM0010040008828803-Spiderman__Lejos_de.mpd
+
+#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/s6mOq-xM_SCejZWUNkH-sg?tags=VERTICAL" group-title="Peliculas Flow",Spiderman: Sin camino a casa
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010070010123003-Spiderman__Sin_cami/_/vod_dash/MMMM0010070010123003-Spiderman__Sin_cami.mpd
+
+#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/ct65XiRqTwgJWFABByyy8Q?tags=VERTICAL" group-title="Peliculas Flow",Spiderman: De regreso a casa
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010040004244803-Spiderman__De_regre/_/vod_dash/MMMM0010040004244803-Spiderman__De_regre.mpd
+
 #EXTINF:-1 tvg-id="" vod="true" tvg-name="Lu&Pau" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/mX4tYAiiLS2i90bQ_k0tZg?tags=VERTICAL" group-title="Peliculas Flow", Lu y Pau
 https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010060026588603-Lu_y_Pau/_/vod_dash/MMMM0010060026588603-Lu_y_Pau.mpd
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="Aqui" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/hAmOsPqwFmBF67-aoPp6iA?tags=VERTICAL" group-title="Peliculas Flow",Aqui
+
+#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/hAmOsPqwFmBF67-aoPp6iA?tags=VERTICAL" group-title="Peliculas Flow",Aqui
 https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026463603-Aqui/_/vod_dash/MMMM0010000026463603-Aqui.mpd
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="Canelones" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/M1EOivLi4fP8KTtNA59QRA?tags=VERTICAL" group-title="Peliculas Flow",Canelones
+
+#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/M1EOivLi4fP8KTtNA59QRA?tags=VERTICAL" group-title="Peliculas Flow",Canelones
 https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026471203-Canelones/_/vod_dash/MMMM0010000026471203-Canelones.mpd
+
+#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/XwFMLvBVBoIrxUrgraN8aA?tags=VERTICAL" group-title="Peliculas Flow",Casi muerta
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010040020907503-Casi_muerta/_/vod_dash/MMMM0010040020907503-Casi_muerta.mpd
+
+#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/JfkP6jFn19rJD88LrXtO8g?tags=VERTICAL" group-title="Peliculas Flow",La encomienda
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010020026589003-La_encomienda/_/vod_dash/MMMM0010020026589003-La_encomienda.mpd
+
+#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/gNkbTHGWqCtY3VsER9Vu6A?tags=VERTICAL" group-title="Peliculas Flow",La extorsión
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026303003-La_extorsion/_/vod_dash/MMMM0010000026303003-La_extorsion.mpd
+
+
+#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/ghwoRwpnpXfwcj9-MAKnxg?tags=VERTICAL" group-title="Peliculas Flow",Lee Miller: Retratos de guerra
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010020026463403-Lee_Miller__Retrato/_/vod_dash/MMMM0010020026463403-Lee_Miller__Retrato.mpd
+
+#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/_EdEzSsZNHcQwOj3UNLllQ?tags=VERTICAL" group-title="Peliculas Flow",Red Flags
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026628603-Red_Flags_T1_E01/_/vod_dash/MMMM0010000026628603-Red_Flags_T1_E01.mpd
+
+
+#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/xcGxtUNSIYelsQnQQmKESQ?tags=VERTICAL" group-title="Peliculas Flow",Pistolero
+https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026588803-Pistolero/_/vod_dash/MMMM0010000026588803-Pistolero.mpd
+
+
 
 
 
