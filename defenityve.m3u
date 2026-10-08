@@ -1,4 +1,4 @@
-Update 1.6.0
+Update 1.6.12
 
 
 
@@ -1356,93 +1356,404 @@ https://edge-live23-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Birdgirl S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL4O0WQG4P4O8MpbmIRrVUFNMGC.jpg" group-title="ANIMADAS (CAST)",Birdgirl S01E01
-http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565496.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Birdgirl S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL4O0WQG4P4O8MpbmIRrVUFNMGC.jpg" group-title="ANIMADAS (CAST)",Birdgirl S01E02
-http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565497.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Birdgirl S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL4O0WQG4P4O8MpbmIRrVUFNMGC.jpg" group-title="ANIMADAS (CAST)",Birdgirl S01E03
-http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565498.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Birdgirl S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL4O0WQG4P4O8MpbmIRrVUFNMGC.jpg" group-title="ANIMADAS (CAST)",Birdgirl S01E04
-http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565499.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Birdgirl S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL4O0WQG4P4O8MpbmIRrVUFNMGC.jpg" group-title="ANIMADAS (CAST)",Birdgirl S01E05
-http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565500.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Birdgirl S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL4O0WQG4P4O8MpbmIRrVUFNMGC.jpg" group-title="ANIMADAS (CAST)",Birdgirl S01E06
-http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565501.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Birdgirl S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL4O0WQG4P4O8MpbmIRrVUFNMGC.jpg" group-title="ANIMADAS (CAST)",Birdgirl S02E01
-http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565502.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Birdgirl S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL4O0WQG4P4O8MpbmIRrVUFNMGC.jpg" group-title="ANIMADAS (CAST)",Birdgirl S02E02
-http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565503.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Birdgirl S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL4O0WQG4P4O8MpbmIRrVUFNMGC.jpg" group-title="ANIMADAS (CAST)",Birdgirl S02E03
-http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565504.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Birdgirl S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL4O0WQG4P4O8MpbmIRrVUFNMGC.jpg" group-title="ANIMADAS (CAST)",Birdgirl S02E04
-http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565505.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Birdgirl S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL4O0WQG4P4O8MpbmIRrVUFNMGC.jpg" group-title="ANIMADAS (CAST)",Birdgirl S02E05
-http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565506.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Birdgirl S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL4O0WQG4P4O8MpbmIRrVUFNMGC.jpg" group-title="ANIMADAS (CAST)",Birdgirl S02E06
-http://avefenixtv.com/series/arielprimousaamigo1/SnG8ZBa9jh/1565507.mkv
-
-
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/b0MYLmHLGMQhqjK-VOCceg?tags=VERTICAL" group-title="Peliculas Flow",Spiderman: Un nuevo día
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026808803-Spiderman__Un_nuevo/_/vod_dash/MMMM0010000026808803-Spiderman__Un_nuevo.mpd
-
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/ysZybx9-rSEh00_swqaZ5A?tags=VERTICAL" group-title="Peliculas Flow",Spider-Man: Lejos de casa
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010040008828803-Spiderman__Lejos_de/_/vod_dash/MMMM0010040008828803-Spiderman__Lejos_de.mpd
-
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/s6mOq-xM_SCejZWUNkH-sg?tags=VERTICAL" group-title="Peliculas Flow",Spiderman: Sin camino a casa
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010070010123003-Spiderman__Sin_cami/_/vod_dash/MMMM0010070010123003-Spiderman__Sin_cami.mpd
-
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/ct65XiRqTwgJWFABByyy8Q?tags=VERTICAL" group-title="Peliculas Flow",Spiderman: De regreso a casa
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010040004244803-Spiderman__De_regre/_/vod_dash/MMMM0010040004244803-Spiderman__De_regre.mpd
-
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="Lu&Pau" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/mX4tYAiiLS2i90bQ_k0tZg?tags=VERTICAL" group-title="Peliculas Flow", Lu y Pau
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010060026588603-Lu_y_Pau/_/vod_dash/MMMM0010060026588603-Lu_y_Pau.mpd
-
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/hAmOsPqwFmBF67-aoPp6iA?tags=VERTICAL" group-title="Peliculas Flow",Aqui
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026463603-Aqui/_/vod_dash/MMMM0010000026463603-Aqui.mpd
-
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/M1EOivLi4fP8KTtNA59QRA?tags=VERTICAL" group-title="Peliculas Flow",Canelones
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026471203-Canelones/_/vod_dash/MMMM0010000026471203-Canelones.mpd
-
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/XwFMLvBVBoIrxUrgraN8aA?tags=VERTICAL" group-title="Peliculas Flow",Casi muerta
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010040020907503-Casi_muerta/_/vod_dash/MMMM0010040020907503-Casi_muerta.mpd
-
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/JfkP6jFn19rJD88LrXtO8g?tags=VERTICAL" group-title="Peliculas Flow",La encomienda
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010020026589003-La_encomienda/_/vod_dash/MMMM0010020026589003-La_encomienda.mpd
-
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/gNkbTHGWqCtY3VsER9Vu6A?tags=VERTICAL" group-title="Peliculas Flow",La extorsión
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026303003-La_extorsion/_/vod_dash/MMMM0010000026303003-La_extorsion.mpd
-
-
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/ghwoRwpnpXfwcj9-MAKnxg?tags=VERTICAL" group-title="Peliculas Flow",Lee Miller: Retratos de guerra
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010020026463403-Lee_Miller__Retrato/_/vod_dash/MMMM0010020026463403-Lee_Miller__Retrato.mpd
-
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/_EdEzSsZNHcQwOj3UNLllQ?tags=VERTICAL" group-title="Peliculas Flow",Red Flags
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026628603-Red_Flags_T1_E01/_/vod_dash/MMMM0010000026628603-Red_Flags_T1_E01.mpd
-
-
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/xcGxtUNSIYelsQnQQmKESQ?tags=VERTICAL" group-title="Peliculas Flow",Pistolero
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026588803-Pistolero/_/vod_dash/MMMM0010000026588803-Pistolero.mpd
-
-#EXTINF:-1 tvg-id="" vod="true" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/400/600/hAmOsPqwFmBF67-aoPp6iA?tags=VERTICAL" Etiqueta="True" Color="#27F2F5" Text="Nueva" group-title="Peliculas Flow",Aqui
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="" vod="true" port="https://staticm11.app.flow.com.ar/images/content/400/600/o5At3boaXQrkNQ650vv2Tg?tags=VERTICAL" tvg-name="Cautiva" tvg-logo="https://staticm11.app.flow.com.ar/images/content/384/216/HnV5Bb2F00W1vyveoqhKPg?tags=HORIZONTAL" group-title="Series Flow",Cautiva S01E01
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026587803-Cautiva_T1_E01/_/vod_dash/MMMM0010000026587803-Cautiva_T1_E01.mpd
-#EXTINF:-1 tvg-id="" vod="true" port="https://staticm11.app.flow.com.ar/images/content/400/600/o5At3boaXQrkNQ650vv2Tg?tags=VERTICAL" tvg-name="Cautiva" tvg-logo="https://staticm11.app.flow.com.ar/images/content/384/216/cNNKvg6jRZPHwkwcbwZPLA?tags=HORIZONTAL" group-title="Series Flow",Cautiva S01E02
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026588303-Cautiva_T1_E02/_/vod_dash/MMMM0010000026588303-Cautiva_T1_E02.mpd
-#EXTINF:-1 tvg-id="" vod="true" port="https://staticm11.app.flow.com.ar/images/content/400/600/o5At3boaXQrkNQ650vv2Tg?tags=VERTICAL" tvg-name="Cautiva" tvg-logo="https://staticm11.app.flow.com.ar/images/content/384/216/CPZwhMUz9utBDAbmqje3YQ?tags=HORIZONTAL" group-title="Series Flow",Cautiva S01E03
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026587803-Cautiva_T1_E01/_/vod_dash/MMMM0010000026587803-Cautiva_T1_E03.mpd
-#EXTINF:-1 tvg-id="" vod="true" port="https://staticm11.app.flow.com.ar/images/content/400/600/o5At3boaXQrkNQ650vv2Tg?tags=VERTICAL" tvg-name="Cautiva" tvg-logo="https://staticm11.app.flow.com.ar/images/content/384/216/XR7uh-1uXzUF9mgUBj0IEw?tags=HORIZONTAL" group-title="Series Flow",Cautiva S01E04
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026587803-Cautiva_T1_E01/_/vod_dash/MMMM0010000026587803-Cautiva_T1_E04.mpd
-#EXTINF:-1 tvg-id="" vod="true" port="https://staticm11.app.flow.com.ar/images/content/400/600/o5At3boaXQrkNQ650vv2Tg?tags=VERTICAL" tvg-name="Cautiva" tvg-logo="https://staticm11.app.flow.com.ar/images/content/384/216/Qw8aqId9i8sWqdKiXSrsKQ?tags=HORIZONTAL" group-title="Series Flow",Cautiva S01E05
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026587803-Cautiva_T1_E01/_/vod_dash/MMMM0010000026587803-Cautiva_T1_E05.mpd
-#EXTINF:-1 tvg-id="" vod="true" port="https://staticm11.app.flow.com.ar/images/content/400/600/o5At3boaXQrkNQ650vv2Tg?tags=VERTICAL" tvg-name="Cautiva" tvg-logo="https://staticm11.app.flow.com.ar/images/content/384/216/e6tdt66haFPW_wnfbQsK3A?tags=HORIZONTAL" group-title="Series Flow",Cautiva S01E06
-https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000026587803-Cautiva_T1_E01/_/vod_dash/MMMM0010000026587803-Cautiva_T1_E06.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg" group-title="NETFLIX (LAT)",Breaking Bad S01E01
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbMoecO0ZZio0LcgeLxlzdyGs6X.jpg" group-title="NETFLIX (LAT)",Breaking Bad S01E02
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlgGfjtuO2WSLT7qYDVlvTpSVW.jpg" group-title="NETFLIX (LAT)",Breaking Bad S01E03
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5BAJVhuIWfkoSqDID6FnQNCTVc.jpg" group-title="NETFLIX (LAT)",Breaking Bad S01E04
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82G3wZgEvZLKcte6yoZJahUWBtx.jpg" group-title="NETFLIX (LAT)",Breaking Bad S01E05
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCCLuycNPL30W3BtuB8HafxEMYz.jpg" group-title="NETFLIX (LAT)",Breaking Bad S01E06
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dgFAsajUpUT7DLXgAxHb9GyXHH.jpg" group-title="NETFLIX (LAT)",Breaking Bad S01E07
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Uo1z56uKnX60JXvYYFWACHR31u.jpg" group-title="NETFLIX (LAT)",Breaking Bad S02E01
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th3SNe0gNgRguv8VveLd4f2JcaH.jpg" group-title="NETFLIX (LAT)",Breaking Bad S02E02
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abgJTOWYPdZGxAWhsg6lmtM8qcU.jpg" group-title="NETFLIX (LAT)",Breaking Bad S02E03
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMXeL0qcQZi5Tfd4UhnkRJeI9oa.jpg" group-title="NETFLIX (LAT)",Breaking Bad S02E04
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPQxF63jhfT5eNYjhzuGEO7oMQg.jpg" group-title="NETFLIX (LAT)",Breaking Bad S02E05
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfCuh20gNHGGF6A1te3NmiqML6D.jpg" group-title="NETFLIX (LAT)",Breaking Bad S02E06
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IOnhCCeru1BZUPeppu7tMmtxvL.jpg" group-title="NETFLIX (LAT)",Breaking Bad S02E07
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KmFdF23FtbPwwz3FJF2T885r2Z.jpg" group-title="NETFLIX (LAT)",Breaking Bad S02E08
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etUWlVbdQ7PzbGeUOBNpmFRm1Z9.jpg" group-title="NETFLIX (LAT)",Breaking Bad S02E09
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGobAJ0h54788xCMkRKaJTQMMtq.jpg" group-title="NETFLIX (LAT)",Breaking Bad S02E10
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeQAQsV4WPTmKWTyuDhF3DAna1x.jpg" group-title="NETFLIX (LAT)",Breaking Bad S02E11
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxFfozd55eJ6Aa4J0pd3SRqJl5l.jpg" group-title="NETFLIX (LAT)",Breaking Bad S02E12
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdSWJjptnLAvFnh5Is6iJPlH1ds.jpg" group-title="NETFLIX (LAT)",Breaking Bad S02E13
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4taqxGFx9z8ovHhiaa2jvQFd0Z.jpg" group-title="NETFLIX (LAT)",Breaking Bad S03E01
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726451.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQYTr6cH834QyF3cE1VQymwolE1.jpg" group-title="NETFLIX (LAT)",Breaking Bad S03E02
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH2nkMFxuX5tXc832jyDNU4AjKq.jpg" group-title="NETFLIX (LAT)",Breaking Bad S03E03
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Se5PpvIgUey9MgXmrKkgO8HVye.jpg" group-title="NETFLIX (LAT)",Breaking Bad S03E04
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2cipfAKEdLR4MIZKA3EiOcTYiZ.jpg" group-title="NETFLIX (LAT)",Breaking Bad S03E05
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sl5zRr0u0kYcIyCdQjOTsexq4bL.jpg" group-title="NETFLIX (LAT)",Breaking Bad S03E06
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yyVAkAQhzc5URhJJiy21biH3FJ.jpg" group-title="NETFLIX (LAT)",Breaking Bad S03E07
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTP1Z3Ysmj7BCudHKOh4zHiSyPf.jpg" group-title="NETFLIX (LAT)",Breaking Bad S03E08
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztG7AnGy4YKs1vxLbpK9euPwjaK.jpg" group-title="NETFLIX (LAT)",Breaking Bad S03E09
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpXc5zctIc2N0PQif3fG0TGypaX.jpg" group-title="NETFLIX (LAT)",Breaking Bad S03E10
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llw7fwOmOMs6OSqwK96XrPPQZD3.jpg" group-title="NETFLIX (LAT)",Breaking Bad S03E11
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOvMekI0YKm20I42XK93mPCQ4ru.jpg" group-title="NETFLIX (LAT)",Breaking Bad S03E12
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S03E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDUs18asTVVfqd56scRQ7W9r781.jpg" group-title="NETFLIX (LAT)",Breaking Bad S03E13
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1voCxDEPeYXcKAaoDvdGUMyAjps.jpg" group-title="NETFLIX (LAT)",Breaking Bad S04E01
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ra0R3q9jEOObo6gspjYcbqPmIM.jpg" group-title="NETFLIX (LAT)",Breaking Bad S04E02
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ac0wu93r4LaZk07wa7PiWpNOOru.jpg" group-title="NETFLIX (LAT)",Breaking Bad S04E03
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzHp77NjrkDOu9sgkLB5PYmwArK.jpg" group-title="NETFLIX (LAT)",Breaking Bad S04E04
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbCdpu4qlciRQMyKmcstoadcFak.jpg" group-title="NETFLIX (LAT)",Breaking Bad S04E05
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tuFJVKzlWRqstoAOxwWF6lPzJY.jpg" group-title="NETFLIX (LAT)",Breaking Bad S04E06
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXYKZO4nTsDrAc2AjJOhjJkwu1V.jpg" group-title="NETFLIX (LAT)",Breaking Bad S04E07
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vf9uFwIaZRLKv8npuz3eJJnjd99.jpg" group-title="NETFLIX (LAT)",Breaking Bad S04E08
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIU8FJxe1yXvMm7yREwj138Z6x8.jpg" group-title="NETFLIX (LAT)",Breaking Bad S04E09
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBrs0Npmn76g81yel2mjK7mTaOj.jpg" group-title="NETFLIX (LAT)",Breaking Bad S04E10
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mySdUn0ab1rrWUuoribRZilCqAF.jpg" group-title="NETFLIX (LAT)",Breaking Bad S04E11
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffIjlpJndsel3FkPMpHCnpJ71lw.jpg" group-title="NETFLIX (LAT)",Breaking Bad S04E12
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S04E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Apl61kYZF2zQlUMh13t8zmUD7Vr.jpg" group-title="NETFLIX (LAT)",Breaking Bad S04E13
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uShB5dWoA3xIivZ9jvwWnGCVvt4.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E01
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WIzJqqUthdASBRE1Ts8ymrDhIv.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E02
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l84H1dZVkQGgFVomKHc67RKaEC2.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E03
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxcf3ER2rzU9IxCxJEhCCw1MyT.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E04
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ay9uj9CMQJezaB407JCPMDYSptK.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E05
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SHawaVRg4Iw3Ry2adH29TjHYhK.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E06
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NA7ti9jsWnG4xreMEFwbq4DH1f.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E07
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTAPBgAah14jQbV98Sw7iqJD4W7.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E08
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvxl7TMG4dZG9D5bzzQzKqfUdnD.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E09
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0aRvTXslQgJpCmmcmoYqS9MsIB.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E10
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75lrTEzbUh4iZlMs0aN4mKisD4C.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E11
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VkI8lm7Xcmlxk92pWRyW341d70.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E12
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lunoCRprYl0jEJEkGTS8v6eFq1n.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E13
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k80r5JYO4LLrPJbWDXmlg7IxRMI.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E14
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkAdPUHvRlvTnz2uA0gAQiGXpos.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E15
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S05E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pA0YwyhvdDXP3BEGL2grrIhq8aM.jpg" group-title="NETFLIX (LAT)",Breaking Bad S05E16
+http://avefenixtv.com:8080/series/arielprimousaamigo1/SnG8ZBa9jh/1726492.mkv
+
+
+
+##PELIS 2026
+
+#EXTINF:-1 tvg-id="" tvg-name="Impacto mortal (En mar abierto) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Impacto mortal (En mar abierto) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1721357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasta el fin del mundo (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Hasta el fin del mundo (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1721000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El final de Oak Street (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",El final de Oak Street (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1720810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hot Spot (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Hot Spot (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1720809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jugada maestra (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Jugada maestra (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1720500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supremacía cuántica (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Supremacía cuántica (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1720490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Solo por una noche (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Solo por una noche (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1720489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Por qué me casé otra vez? (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",¿Por qué me casé otra vez? (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1720488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pizza Movies (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Pizza Movies (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1720487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penelope 2 (2025)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Penelope 2 (2025)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1720486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mayday (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Mayday (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1720485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Llama a mi agente: La Pelicula (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Llama a mi agente: La Pelicula (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1720484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gracias, equipo (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Gracias, equipo (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1720482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enfrentados: Marfil (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Enfrentados: Marfil (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1720480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conexion Peligrosa (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Conexion Peligrosa (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1720479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo tus pies (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Bajo tus pies (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1720477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Volcán: Fuego Bajo Tierra (2025)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Volcán: Fuego Bajo Tierra (2025)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1719345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Patrulla Canina: La dino película (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",La Patrulla Canina: La dino película (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1719344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moana (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Moana (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1718864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zona Cero (LINE) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Zona Cero (LINE) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1717804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo no moriré de amor (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Yo no moriré de amor (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1717803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Couture: Vidas entrelazadas (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Couture: Vidas entrelazadas (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1717802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una Película de Amor y Guerra (2025)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Una Película de Amor y Guerra (2025)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1717801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Te extraño, te amo (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Te extraño, te amo (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1717800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Punto de inflexión: Generación 11S (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Punto de inflexión: Generación 11S (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1717799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam Hathaway: El hechizo de una ninfa (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Mobile Suit Gundam Hathaway: El hechizo de una ninfa (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1717798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Furia de los Thunderman (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",La Furia de los Thunderman (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1717797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gintama: Yoshiwara en llamas (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Gintama: Yoshiwara en llamas (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1717796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gandhari (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Gandhari (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1717795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último conquistador (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",El último conquistador (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1717794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barreda (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Barreda (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1717793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A la carrera (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",A la carrera (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1717792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicas como chicas (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Chicas como chicas (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1713615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Besar es fácil (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Besar es fácil (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1713614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor, amor, boda (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Amor, amor, boda (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1713613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor es amor (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Amor es amor (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1713612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Código Venganza (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Código Venganza (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1333035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Engendro (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Engendro (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1332856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La fiera (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",La fiera (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nando entre dos mundos (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Nando entre dos mundos (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi mejor amigo, su novia y yo (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Mi mejor amigo, su novia y yo (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La boda de mi madre (2025)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",La boda de mi madre (2025)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El turno del papá (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",El turno del papá (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Afinador (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",El Afinador (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camp Rock 3 (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Camp Rock 3 (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Embestida (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Embestida (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Ay, mamá! (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",¡Ay, mamá! (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sniper: En tierra de nadie (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Sniper: En tierra de nadie (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un hijo propio (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Un hijo propio (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi querida señorita (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Mi querida señorita (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mensajes de voz para Isabelle (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Mensajes de voz para Isabelle (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa de la playa (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",La casa de la playa (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sobran las palabras (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Sobran las palabras (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Letras robadas (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Letras robadas (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último gigante (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",El último gigante (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ven a volar conmigo (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Ven a volar conmigo (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Aang: El último Airbender (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",La leyenda de Aang: El último Airbender (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esto, aquello y todo lo demás (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Esto, aquello y todo lo demás (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gary (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Gary (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La última casa (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",La última casa (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasta el final (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Hasta el final (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Culpa tuya: Londres (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Culpa tuya: Londres (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Isolate Thief (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",The Isolate Thief (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criaturas luminosas (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Criaturas luminosas (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hokum (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Hokum (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La fiera (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",La fiera (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Viejos Bandidos (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Los Viejos Bandidos (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wings of Dread (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Wings of Dread (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los creyentes (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Los creyentes (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Punisher: One Last Kill (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",The Punisher: One Last Kill (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La desconocida (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",La desconocida (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat II (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Mortal Kombat II (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El drama (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",El drama (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Boca del Diablo (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",La Boca del Diablo (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outcome (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Outcome (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scary Movie (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Scary Movie (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Susana y Elvira: Sin plan B (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Susana y Elvira: Sin plan B (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Odisea (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",La Odisea (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Supergirl (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las ovejas detectives (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Las ovejas detectives (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La caja azul (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",La caja azul (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi mejor amigo, su novia y yo (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Mi mejor amigo, su novia y yo (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Brand New Day (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Spider-Man: Brand New Day (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maridos en acción (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Maridos en acción (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un Portero Muy Improbable (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Un Portero Muy Improbable (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jack Ryan. Guerra encubierta (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Jack Ryan. Guerra encubierta (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Familia Del Barrio: La Maldición del Quinto Partido (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",La Familia Del Barrio: La Maldición del Quinto Partido (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian and Grogu (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",The Mandalorian and Grogu (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiempo de victoria (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Tiempo de victoria (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elize: Sombras de una mujer (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Elize: Sombras de una mujer (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los colores del mal: Negro (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Los colores del mal: Negro (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No se desea buena suerte (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",No se desea buena suerte (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="México 86 (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",México 86 (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casaca de Dios (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",La casaca de Dios (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Come, reza, ladra (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Come, reza, ladra (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Passenger (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",The Passenger (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Depredador dominante (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Depredador dominante (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrera de bestias (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Carrera de bestias (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beast (La bestia) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Beast (La bestia) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ases (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",El ases (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="53 domingos (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",53 domingos (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1330161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes 3 (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Enola Holmes 3 (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Obsesión (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Furious (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",The Furious (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Young Washington (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Young Washington (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Minions & Monsters (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Minions & Monsters (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la moda 2 (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",El diablo viste a la moda 2 (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Michael (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Michael (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 5 (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Toy Story 5 (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Palo dado ni quien lo quite (2017)" tvg-logo="" group-title="",A Palo dado ni quien lo quite (2017)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jackass: Lo mejor para el final (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Jackass: Lo mejor para el final (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De chivo los tamales (1991)" tvg-logo="" group-title="EROS +18",De chivo los tamales (1991)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327465.avi
+#EXTINF:-1 tvg-id="" tvg-name="Deseo (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Deseo (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="23 000 vidas (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",23 000 vidas (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nada entre los dos (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Nada entre los dos (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Cobrador De Deudas (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",El Cobrador De Deudas (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leviticus: Ritual de sangre (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Leviticus: Ritual de sangre (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Detonación (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Detonación (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elize: Sombras de una Mujer (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Elize: Sombras de una Mujer (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Undertone: Frecuencia maldita (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Undertone: Frecuencia maldita (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Papá a Cargo (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Papá a Cargo (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Bestia Del Pantano (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",La Bestia Del Pantano (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dink: Pasión por el pickleball (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",The Dink: Pasión por el pickleball (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Descendientes: Un malvado País de las Maravillas (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Descendientes: Un malvado País de las Maravillas (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soulm8te (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Soulm8te (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El día de la revelación (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",El día de la revelación (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zona de riesgo (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Zona de riesgo (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Evil Dead: En llamas (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Evil Dead: En llamas (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Supergirl (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="72 horas (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",72 horas (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amos del Universo (LAT) (2026)" tvg-logo="" group-title="ESTRENOS 2026 - (LAT)",Amos del Universo (LAT) (2026)
+http://avefenixtv.com:8080/movie/arielprimousaamigo1/SnG8ZBa9jh/1327121.mkv
 ##4DUL10S
 
 
