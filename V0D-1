@@ -19,6 +19,12 @@ http://myultratv.com:8080/movie/968450596tv/ft768psq2/286046.mkv
 http://myultratv.com:8080/movie/968450596tv/ft768psq2/285917.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Hipotesis del Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg" vod="true" Etiqueta="True" Color="#E11D48" Text="ESTRENO" group-title="→ESTRENOS 2026←",La Hipotesis del Amor
 http://myultratv.com:8080/movie/968450596tv/ft768psq2/285763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Papi Ricky: La Película" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0EhzwaNnpMezpIDNoBcRCoAhMN.jpg" group-title="→ VOD ESTRENOS 2026 ←",Papi Ricky: La Película
+http://myultratv.com:8080/movie/968450596tv/ft768psq2/287741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Codigo: Venganza" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHPYm59D7kF8yQr03hewusoyNET.jpg" group-title="→ VOD ESTRENOS 2026 ←",Codigo: Venganza
+http://myultratv.com:8080/movie/968450596tv/ft768psq2/287742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La bola negra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg" group-title="→ VOD ESTRENOS 2026 ←",La bola negra
+http://myultratv.com:8080/movie/968450596tv/ft768psq2/287740.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Conexion Peligrosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKUXpUryPHGnkFThqhXtad4O8jE.jpg" vod="true" group-title="→ESTRENOS 2026←",Conexion Peligrosa
 http://myultratv.com:8080/movie/968450596tv/ft768psq2/285766.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En vivo desde el infierno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UYm1w6shyYyqFGsry2JMaq56K2.jpg" vod="true" group-title="→ESTRENOS 2026←",En vivo desde el infierno
@@ -235,3 +241,626 @@ http://myultratv.com:8080/movie/968450596tv/ft768psq2/279706.mp4
 http://myultratv.com:8080/movie/968450596tv/ft768psq2/279351.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gente que conocemos en Vacaciones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" vod="true" group-title="→ESTRENOS 2026←",Gente que conocemos en Vacaciones
 http://myultratv.com:8080/movie/968450596tv/ft768psq2/279293.mp4
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Noche Fatídica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4N7M52cBbyi24xLga8yI6yt1u1.jpg" group-title="ESTRENOS 2026",Noche Fatídica
+http://livetv-plus.com:8880/movie/edison2020/2020edison/676016.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mother Mary" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icFriZyktJO96UX9BMqEFJU3J7P.jpg" group-title="ESTRENOS 2026",Mother Mary
+http://livetv-plus.com:8880/movie/edison2020/2020edison/676013.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Contra el huracán" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg" group-title="ESTRENOS 2026",Contra el huracán
+http://livetv-plus.com:8880/movie/edison2020/2020edison/676010.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Todos los colores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fiXF1BmnMKSiIv6Gj9msRYhtvpv.jpg" group-title="ESTRENOS 2026",Todos los colores
+http://livetv-plus.com:8880/movie/edison2020/2020edison/675688.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hombres G: Los mejores años de nuestra vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSyseZXNnObOCSRmC4BQo1w1RMU.jpg" group-title="ESTRENOS 2026",Hombres G: Los mejores años de nuestra vida
+http://livetv-plus.com:8880/movie/edison2020/2020edison/675267.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Estafas Amorosas con Mariana Van Zeller" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y07DF84TR67NVAevJR6JMydIL5H.jpg" group-title="ESTRENOS 2026",Estafas Amorosas con Mariana Van Zeller
+http://livetv-plus.com:8880/movie/edison2020/2020edison/675264.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Soy Luna Tour: El último show" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aj8YK6GP8rj94ZeCpQNRrSj5I6r.jpg" group-title="ESTRENOS 2026",Soy Luna Tour: El último show
+http://livetv-plus.com:8880/movie/edison2020/2020edison/675261.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tenzing: Conquistando el Everest" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqLaFFN8Qd88Y5QpfvKu82Kw5iD.jpg" group-title="ESTRENOS 2026",Tenzing: Conquistando el Everest
+http://livetv-plus.com:8880/movie/edison2020/2020edison/674739.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Matchbox: La película" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg" group-title="ESTRENOS 2026",Matchbox: La película
+http://livetv-plus.com:8880/movie/edison2020/2020edison/674736.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El discípulo: Una fábula de Wu-Tang" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vrQxy3Xrb6AvPtsa7jAU9DKxvu.jpg" group-title="ESTRENOS 2026",El discípulo: Una fábula de Wu-Tang
+http://livetv-plus.com:8880/movie/edison2020/2020edison/674733.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Masterplan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLLvKhqTngUispTyDofvoEDKrxa.jpg" group-title="ESTRENOS 2026",Masterplan
+http://livetv-plus.com:8880/movie/edison2020/2020edison/674680.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Solterísima también" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xj9zvjuyt5MEhxjnbQbNCZDHR2l.jpg" group-title="ESTRENOS 2026",Solterísima también
+http://livetv-plus.com:8880/movie/edison2020/2020edison/674677.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Lo dejamos acá" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaok2Dm7suKG2gEY2cKBXL4OMYf.jpg" group-title="ESTRENOS 2026",Lo dejamos acá
+http://livetv-plus.com:8880/movie/edison2020/2020edison/674674.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mi casa no es tu casa" tvg-logo="https://images.vix.com/prd/videos/video:mcp:4694305/20cef00383bd1040cb4a86b2d36ae084" group-title="ESTRENOS 2026",Mi casa no es tu casa
+http://livetv-plus.com:8880/movie/edison2020/2020edison/674671.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La tormenta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hzCmg7a8nb2K3VQtm36E1YehnH.jpg" group-title="ESTRENOS 2026",La tormenta
+http://livetv-plus.com:8880/movie/edison2020/2020edison/674541.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El amor de tu vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqeDR6qGU8mqguQHRkAUg2ySBZv.jpg" group-title="ESTRENOS 2026",El amor de tu vida
+http://livetv-plus.com:8880/movie/edison2020/2020edison/674080.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="En el camino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhgF99qGTf6EfRYnghGUD57cDtZ.jpg" group-title="ESTRENOS 2026",En el camino
+http://livetv-plus.com:8880/movie/edison2020/2020edison/673879.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tadeo Jones y La Lámpara Maravillosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg" group-title="ESTRENOS 2026",Tadeo Jones y La Lámpara Maravillosa
+http://livetv-plus.com:8880/movie/edison2020/2020edison/673859.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Instadocus: La IA se descontrola" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybMAd7Tkd3T7XlCv4Ps54r1yC1M.jpg" group-title="ESTRENOS 2026",Instadocus: La IA se descontrola
+http://livetv-plus.com:8880/movie/edison2020/2020edison/673854.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hechizo de amor: La magia continúa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNdtnb2Ga4H9fl4hEGhOLrgdKqq.jpg" group-title="ESTRENOS 2026",Hechizo de amor: La magia continúa
+http://livetv-plus.com:8880/movie/edison2020/2020edison/673851.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Animales" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhycOr6ji35RMGHnstHN4UKAvR4.jpg" group-title="ESTRENOS 2026",Animales
+http://livetv-plus.com:8880/movie/edison2020/2020edison/673578.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Oasis: Don't Look Back in Anger" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg" group-title="ESTRENOS 2026",Oasis: Don't Look Back in Anger
+http://livetv-plus.com:8880/movie/edison2020/2020edison/673575.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="¿Quién es Martin Mull?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnBgxARqTjgNfpBtFMoyi9NYxlZ.jpg" group-title="ESTRENOS 2026",¿Quién es Martin Mull?
+http://livetv-plus.com:8880/movie/edison2020/2020edison/673234.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Cada vez menos extraño" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80NPHUrGmFexbTVizJBJta9maCX.jpg" group-title="ESTRENOS 2026",Cada vez menos extraño
+http://livetv-plus.com:8880/movie/edison2020/2020edison/673231.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Soulm8te" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeBFjbLFp3vvv49yD2q1Gg64zyb.jpg" group-title="ESTRENOS 2026",Soulm8te
+http://livetv-plus.com:8880/movie/edison2020/2020edison/672968.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La negociación" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3jwAo3eqhfjcqwaztGXUfRk8aJ.jpg" group-title="ESTRENOS 2026",La negociación
+http://livetv-plus.com:8880/movie/edison2020/2020edison/672931.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Family Guy Happy Hell-o-ween" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smjL4kHnN2uZuMy4T30AJxUAWsk.jpg" group-title="ESTRENOS 2026",Family Guy Happy Hell-o-ween
+http://livetv-plus.com:8880/movie/edison2020/2020edison/672928.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Schumacher 94: Nace una leyenda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTup4U76sGi5om7BUiMYwKWHvvl.jpg" group-title="ESTRENOS 2026",Schumacher 94: Nace una leyenda
+http://livetv-plus.com:8880/movie/edison2020/2020edison/672570.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Las cartas de la vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg" group-title="ESTRENOS 2026",Las cartas de la vida
+http://livetv-plus.com:8880/movie/edison2020/2020edison/672559.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="No dejes a los niños solos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxg1sLzG0TJRDPSNU6AmR4wR4Ce.jpg" group-title="ESTRENOS 2026",No dejes a los niños solos
+http://livetv-plus.com:8880/movie/edison2020/2020edison/672556.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ricos sin dinero" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bATrCc4HVGOkJyPb0GzEnBJrNQ0.jpg" group-title="ESTRENOS 2026",Ricos sin dinero
+http://livetv-plus.com:8880/movie/edison2020/2020edison/672391.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El hombre que desafió al rey" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg" group-title="ESTRENOS 2026",El hombre que desafió al rey
+http://livetv-plus.com:8880/movie/edison2020/2020edison/671762.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mononoke III: La maldición de la serpiente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvWv8SAszoG3LJstEAo8pIGbcjR.jpg" group-title="ESTRENOS 2026",Mononoke III: La maldición de la serpiente
+http://livetv-plus.com:8880/movie/edison2020/2020edison/671759.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Spidey y Los Vengadores: ¡Superequipo Halloween!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLhj8GhpL7njlalnIW4DIZyXyaa.jpg" group-title="ESTRENOS 2026",Spidey y Los Vengadores: ¡Superequipo Halloween!
+http://livetv-plus.com:8880/movie/edison2020/2020edison/671756.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="UNABOMBER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfYo76IOCphg2fmKX5UJvgcimy4.jpg" group-title="ESTRENOS 2026",UNABOMBER
+http://livetv-plus.com:8880/movie/edison2020/2020edison/671719.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Insaciable" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMYFsfuHttGtHnXquWkIWI9Min8.jpg" group-title="ESTRENOS 2026",Insaciable
+http://livetv-plus.com:8880/movie/edison2020/2020edison/671674.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La última bala" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eB3hWY62tpjjR8Be8Jl8tQF444A.jpg" group-title="ESTRENOS 2026",La última bala
+http://livetv-plus.com:8880/movie/edison2020/2020edison/671650.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La hipótesis del amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg" group-title="ESTRENOS 2026",La hipótesis del amor
+http://livetv-plus.com:8880/movie/edison2020/2020edison/671645.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tú+Yo - Los dos contra todos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eV17eCN1CM9fmGJHkfDzMsqqR0a.jpg" group-title="ESTRENOS 2026",Tú+Yo - Los dos contra todos
+http://livetv-plus.com:8880/movie/edison2020/2020edison/670445.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Las mejores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lb9jgdWnpl7BDX66R3LHRdOATcQ.jpg" group-title="ESTRENOS 2026",Las mejores
+http://livetv-plus.com:8880/movie/edison2020/2020edison/670442.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Bajo el hechizo del deseo 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ArlCiQDgycPhHYPqvLrPRsMacK.jpg" group-title="ESTRENOS 2026",Bajo el hechizo del deseo 3
+http://livetv-plus.com:8880/movie/edison2020/2020edison/670439.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hugo 24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zRjTzZEd8yrC7crED3WOHr6mF6.jpg" group-title="ESTRENOS 2026",Hugo 24
+http://livetv-plus.com:8880/movie/edison2020/2020edison/669637.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Impacto Mortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0kR1btRg3aa6bphfD9BnB66fL9.jpg" group-title="ESTRENOS 2026",Impacto Mortal
+http://livetv-plus.com:8880/movie/edison2020/2020edison/669621.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hasta el fin del mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1aCGJVkBZch6UN62yk44TGYU5Or.jpg" group-title="ESTRENOS 2026",Hasta el fin del mundo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/669105.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Gracias, equipo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVGaBCt8g0Q990jKW85wTJKotev.jpg" group-title="ESTRENOS 2026",Gracias, equipo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/669102.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Enfrentados: Marfil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umlft1ztFbUcnHf960pXJocjpdv.jpg" group-title="ESTRENOS 2026",Enfrentados: Marfil
+http://livetv-plus.com:8880/movie/edison2020/2020edison/669019.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="¡Llama a mi agente!: La película" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0NJyZcmuG91MgFwflfGyQFeg41.jpg" group-title="ESTRENOS 2026",¡Llama a mi agente!: La película
+http://livetv-plus.com:8880/movie/edison2020/2020edison/669016.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Paw Patrol: La dino película" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcBc0yfACuTU9oX9cm54IrFJzEW.jpg" group-title="ESTRENOS 2026",Paw Patrol: La dino película
+http://livetv-plus.com:8880/movie/edison2020/2020edison/668858.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="¿Por qué me casé, entonces?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exWdEF4PJsGpX9HeLQsedBgTkj8.jpg" group-title="ESTRENOS 2026",¿Por qué me casé, entonces?
+http://livetv-plus.com:8880/movie/edison2020/2020edison/668855.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Solo por una noche" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfuqSiCp3Y24nO1z1YembfTrrtn.jpg" group-title="ESTRENOS 2026",Solo por una noche
+http://livetv-plus.com:8880/movie/edison2020/2020edison/668850.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Bajo tus pies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quKC1fvq0yqi7Xej9MBAUNBcXsC.jpg" group-title="ESTRENOS 2026",Bajo tus pies
+http://livetv-plus.com:8880/movie/edison2020/2020edison/668377.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Barreda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg" group-title="ESTRENOS 2026",Barreda
+http://livetv-plus.com:8880/movie/edison2020/2020edison/668372.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Furia de los Thundermans" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zgvtsSPFH4rnV4UEXt9aqNKzIB.jpg" group-title="ESTRENOS 2026",La Furia de los Thundermans
+http://livetv-plus.com:8880/movie/edison2020/2020edison/668369.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Motor City - ENG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CatrE52P66ODUQmrMlBO7L0D5c.jpg" group-title="ESTRENOS 2026",Motor City - ENG
+http://livetv-plus.com:8880/movie/edison2020/2020edison/668154.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Gandhari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCHei97aPYCCsh4vicz9X0wmdFV.jpg" group-title="ESTRENOS 2026",Gandhari
+http://livetv-plus.com:8880/movie/edison2020/2020edison/668130.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Fito Páez: El mundo cabe en una canción" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg" group-title="ESTRENOS 2026",Fito Páez: El mundo cabe en una canción
+http://livetv-plus.com:8880/movie/edison2020/2020edison/668127.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Punto de inflexión: Generación 11S" tvg-logo="https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABbNjaBx2lG4oAVzAY5cZeu0i5g87VcrUq6Ne9ZwWdl6asGYlAQXyL7UGf2YXZBMZmDMSpdeWMZrdImS7JZeSdiC1HPm0ThbnTlV3.jpg?r=e43" group-title="ESTRENOS 2026",Punto de inflexión: Generación 11S
+http://livetv-plus.com:8880/movie/edison2020/2020edison/668070.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mayday" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg" group-title="ESTRENOS 2026",Mayday
+http://livetv-plus.com:8880/movie/edison2020/2020edison/667955.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mobile Suit Gundam Hathaway: El hechizo de una ninfa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nc6N2gh2fjlnY6q4R8ufLqDf10X.jpg" group-title="ESTRENOS 2026",Mobile Suit Gundam Hathaway: El hechizo de una ninfa
+http://livetv-plus.com:8880/movie/edison2020/2020edison/667918.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Carrera contra el tiempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYjHS43tFzPfRfm9PjwbSwg0bTz.jpg" group-title="ESTRENOS 2026",Carrera contra el tiempo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/667750.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Código: Venganza" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHPYm59D7kF8yQr03hewusoyNET.jpg" group-title="ESTRENOS 2026",Código: Venganza
+http://livetv-plus.com:8880/movie/edison2020/2020edison/667593.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Batman: Knightfall Part 1: Knightfall - ENG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/360qdtu2hLnqMu8SVHMywn420w1.jpg" group-title="ESTRENOS 2026",Batman: Knightfall Part 1: Knightfall - ENG
+http://livetv-plus.com:8880/movie/edison2020/2020edison/667230.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Susurran tu nombre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8Pi5oRhV14ARUTHrPhFtUg6lP6.jpg" group-title="ESTRENOS 2026",Susurran tu nombre
+http://livetv-plus.com:8880/movie/edison2020/2020edison/667186.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Una Mujer sin Pasado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wy83YWkOsBixidMRFBh0qxqLxel.jpg" group-title="ESTRENOS 2026",Una Mujer sin Pasado
+http://livetv-plus.com:8880/movie/edison2020/2020edison/667183.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La última escena" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgGZnBtdQ816FKR7NqMuaC4knjN.jpg" group-title="ESTRENOS 2026",La última escena
+http://livetv-plus.com:8880/movie/edison2020/2020edison/667180.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Te Extraño, Te Amo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSyzo9gfS0wdUZl0u9WqRRFNUXv.jpg" group-title="ESTRENOS 2026",Te Extraño, Te Amo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/667177.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La invitación" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvMLCv3u989LO1tLLDYMJcK8TZo.jpg" group-title="ESTRENOS 2026",La invitación
+http://livetv-plus.com:8880/movie/edison2020/2020edison/667034.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sunrise: El último amanecer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xf85WDNB5ICqlOqRAHxIdMi3jdZ.jpg" group-title="ESTRENOS 2026",Sunrise: El último amanecer
+http://livetv-plus.com:8880/movie/edison2020/2020edison/666935.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Yellow Mirror: La Realidad Paralela De Homero" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jkXiMrYWAbiuLDzt6DfBPARdzY.jpg" group-title="ESTRENOS 2026",Yellow Mirror: La Realidad Paralela De Homero
+http://livetv-plus.com:8880/movie/edison2020/2020edison/666932.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Todo lo que nunca fuimos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqxIT48mWFsC4NSjGEHAcp1pjEo.jpg" group-title="ESTRENOS 2026",Todo lo que nunca fuimos
+http://livetv-plus.com:8880/movie/edison2020/2020edison/666770.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="EPiC: Elvis Presley in Concert - ENG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hvvcvepX9Y2s1D2HwUqUE82gme.jpg" group-title="ESTRENOS 2026",EPiC: Elvis Presley in Concert - ENG
+http://livetv-plus.com:8880/movie/edison2020/2020edison/666491.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Amor, amor, boda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFARF1GDM13XkOi4TpIHddbEbXK.jpg" group-title="ESTRENOS 2026",Amor, amor, boda
+http://livetv-plus.com:8880/movie/edison2020/2020edison/666337.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Engendro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVQFWGIt5PNw3p7AcQOq2Eg39G.jpg" group-title="ESTRENOS 2026",Engendro
+http://livetv-plus.com:8880/movie/edison2020/2020edison/666334.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La captura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwCeOpuBtuTP1kLosqgniey5OvX.jpg" group-title="ESTRENOS 2026",La captura
+http://livetv-plus.com:8880/movie/edison2020/2020edison/666331.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Besar es fácil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yztYRGaObp3w4coUmvCYzxEvoWn.jpg" group-title="ESTRENOS 2026",Besar es fácil
+http://livetv-plus.com:8880/movie/edison2020/2020edison/666221.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Quince Dias" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f52tZybwHnomYCkRhe9rHMSEz5j.jpg" group-title="ESTRENOS 2026",Quince Dias
+http://livetv-plus.com:8880/movie/edison2020/2020edison/666043.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Beast" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3S32pzyZMoOJ3ADrnT2GbV4tiX4.jpg" group-title="ESTRENOS 2026",Beast
+http://livetv-plus.com:8880/movie/edison2020/2020edison/665898.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El final de la Calle Oak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hT5qnmx9FXGkuBy5Vo1DkOoYyuS.jpg" group-title="ESTRENOS 2026",El final de la Calle Oak
+http://livetv-plus.com:8880/movie/edison2020/2020edison/665855.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Furious" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ.jpg" group-title="ESTRENOS 2026",The Furious
+http://livetv-plus.com:8880/movie/edison2020/2020edison/665609.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="No se desea buena suerte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSHrRxvVxXH0JYdj2NdBD78FC6B.jpg" group-title="ESTRENOS 2026",No se desea buena suerte
+http://livetv-plus.com:8880/movie/edison2020/2020edison/665399.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mi mejor amigo, su novia y yo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slZ1c32UqVgl94XV3CMDFjiZdTZ.jpg" group-title="ESTRENOS 2026",Mi mejor amigo, su novia y yo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/665396.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La fiera" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJc57uJHzsdr224J7jpZMqWNB98.jpg" group-title="ESTRENOS 2026",La fiera
+http://livetv-plus.com:8880/movie/edison2020/2020edison/665393.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Camp Rock 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYMKoVGiPYoHWhNdAzOk7ecuYQo.jpg" group-title="ESTRENOS 2026",Camp Rock 3
+http://livetv-plus.com:8880/movie/edison2020/2020edison/665372.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Esto, aquello y todo lo demás" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q71j2435ZU7UDhROJz5UjHBEk3J.jpg" group-title="ESTRENOS 2026",Esto, aquello y todo lo demás
+http://livetv-plus.com:8880/movie/edison2020/2020edison/665189.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Un hijo propio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg" group-title="ESTRENOS 2026",Un hijo propio
+http://livetv-plus.com:8880/movie/edison2020/2020edison/665186.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El turno del papá" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s99RBLQXE0GaqrlprP1HwV5HOQO.jpg" group-title="ESTRENOS 2026",El turno del papá
+http://livetv-plus.com:8880/movie/edison2020/2020edison/665183.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Nando entre dos mundos: Una película de Sintonía" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jgIHdtYjvqNRMRcJFVnGUcLmNIb.jpg" group-title="ESTRENOS 2026",Nando entre dos mundos: Una película de Sintonía
+http://livetv-plus.com:8880/movie/edison2020/2020edison/665066.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Young Washington" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg" group-title="ESTRENOS 2026",Young Washington
+http://livetv-plus.com:8880/movie/edison2020/2020edison/664826.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Jackass: La última y nos vamos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15Hs6RG2V4zOEJKi8zRazYqQ5PQ.jpg" group-title="ESTRENOS 2026",Jackass: La última y nos vamos
+http://livetv-plus.com:8880/movie/edison2020/2020edison/664737.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La última casa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJnkPtQE8A5H67biPTaTedtHs1L.jpg" group-title="ESTRENOS 2026",La última casa
+http://livetv-plus.com:8880/movie/edison2020/2020edison/664532.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La heroína del moño" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1nx0zBp0c513iJbhKj5VhpO76C.jpg" group-title="ESTRENOS 2026",La heroína del moño
+http://livetv-plus.com:8880/movie/edison2020/2020edison/664516.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pollo a lo grande: Una conspiración de comida rápida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg" group-title="ESTRENOS 2026",Pollo a lo grande: Una conspiración de comida rápida
+http://livetv-plus.com:8880/movie/edison2020/2020edison/664234.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Evil Dead: En llamas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6Fe34oDVmyE4LYp6sRQr8lZ45N.jpg" group-title="ESTRENOS 2026",Evil Dead: En llamas
+http://livetv-plus.com:8880/movie/edison2020/2020edison/663899.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tormenta en Plaza Sésamo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg" group-title="ESTRENOS 2026",Tormenta en Plaza Sésamo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/663643.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Snoopy presenta: Hogar, dulce hogar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4yUl1kF9CvC5izhDAPEeBqrd9C.jpg" group-title="ESTRENOS 2026",Snoopy presenta: Hogar, dulce hogar
+http://livetv-plus.com:8880/movie/edison2020/2020edison/663491.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Letras Robadas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WKC0csxnncUMgXPpZE0MkDWc9.jpg" group-title="ESTRENOS 2026",Letras Robadas
+http://livetv-plus.com:8880/movie/edison2020/2020edison/663332.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Un Comeback Salvaje" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8ce6EJAdGiYsOQxVpIGXgbldks.jpg" group-title="ESTRENOS 2026",Un Comeback Salvaje
+http://livetv-plus.com:8880/movie/edison2020/2020edison/663309.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Spider-Man: Un nuevo día" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GUVYjqDLWy61q9hDYiV9M5UEJe.jpg" group-title="ESTRENOS 2026",Spider-Man: Un nuevo día
+http://livetv-plus.com:8880/movie/edison2020/2020edison/663306.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Nunca debimos entrar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4UDphdrM9qwvI6VPKoqTeJd9Yz.jpg" group-title="ESTRENOS 2026",Nunca debimos entrar
+http://livetv-plus.com:8880/movie/edison2020/2020edison/663027.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Avatar: Aang, El último Maestro Aire" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXyICsxc1amVyziopCT4yhnelNv.jpg" group-title="ESTRENOS 2026",Avatar: Aang, El último Maestro Aire
+http://livetv-plus.com:8880/movie/edison2020/2020edison/662711.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Dink: Pasión por el pickleball" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zKenqYB6vP8LltnOxfWptpH0vG.jpg" group-title="ESTRENOS 2026",The Dink: Pasión por el pickleball
+http://livetv-plus.com:8880/movie/edison2020/2020edison/662456.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Bestia Del Pantano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4X5HtZBtwNzbg9K5prABkC0nDJ.jpg" group-title="ESTRENOS 2026",La Bestia Del Pantano
+http://livetv-plus.com:8880/movie/edison2020/2020edison/662453.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="72 horas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaH93fUARqbfvM9XtaKybUAIo9u.jpg" group-title="ESTRENOS 2026",72 horas
+http://livetv-plus.com:8880/movie/edison2020/2020edison/662365.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Los creyentes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUvs1iFFMDy3sNp5dNmkRak1oxD.jpg" group-title="ESTRENOS 2026",Los creyentes
+http://livetv-plus.com:8880/movie/edison2020/2020edison/662362.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Te quiero desde siempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj3uvHPlfEmdy8veYczXs7ibHah.jpg" group-title="ESTRENOS 2026",Te quiero desde siempre
+http://livetv-plus.com:8880/movie/edison2020/2020edison/662247.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El cobrador de deudas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg" group-title="ESTRENOS 2026",El cobrador de deudas
+http://livetv-plus.com:8880/movie/edison2020/2020edison/662244.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Guerrero del Desierto (Sub)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4t38wzj653DzZiMI1zHAYmxDzk.jpg" group-title="ESTRENOS 2026",Guerrero del Desierto (Sub)
+http://livetv-plus.com:8880/movie/edison2020/2020edison/662130.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Elize: Sombras de una Mujer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7ofkr5drqphDavMOC1RuOgKqIJ.jpg" group-title="ESTRENOS 2026",Elize: Sombras de una Mujer
+http://livetv-plus.com:8880/movie/edison2020/2020edison/662127.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Primate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhJDrPqvw8Dopwc11pCkrGgfhy.jpg" group-title="ESTRENOS 2026",Primate
+http://livetv-plus.com:8880/movie/edison2020/2020edison/662107.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Nada entre los dos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GZt6CfXJQgOFBA7ArLbOQYvXI8.jpg" group-title="ESTRENOS 2026",Nada entre los dos
+http://livetv-plus.com:8880/movie/edison2020/2020edison/662001.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Undertone: Frecuencia maldita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85OfcPsWIpERIr7yRWOUr7S1g8b.jpg" group-title="ESTRENOS 2026",Undertone: Frecuencia maldita
+http://livetv-plus.com:8880/movie/edison2020/2020edison/661998.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Voluntad de Dios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u007P0KcvbVMsNUUJkVAnUqzOpm.jpg" group-title="ESTRENOS 2026",La Voluntad de Dios
+http://livetv-plus.com:8880/movie/edison2020/2020edison/661995.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Deseo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg" group-title="ESTRENOS 2026",Deseo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/661735.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="No Entrar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gHygrBcGU2dL9DHcvnj4FJc8pF.jpg" group-title="ESTRENOS 2026",No Entrar
+http://livetv-plus.com:8880/movie/edison2020/2020edison/661732.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Abuela tremenda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rPJWJNmIPHSppjLMGqjzwpkOs6.jpg" group-title="ESTRENOS 2026",Abuela tremenda
+http://livetv-plus.com:8880/movie/edison2020/2020edison/661729.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Heartstopper Forever" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rsI2lhFLBXPtVScJ3rBKHwIt5b.jpg" group-title="ESTRENOS 2026",Heartstopper Forever
+http://livetv-plus.com:8880/movie/edison2020/2020edison/661726.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="23 000 Vidas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg" group-title="ESTRENOS 2026",23 000 Vidas
+http://livetv-plus.com:8880/movie/edison2020/2020edison/661723.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Descendientes: Un malvado País de las Maravillas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/timzOyiaywUHBmjo8Jb5CoH4gAx.jpg" group-title="ESTRENOS 2026",Descendientes: Un malvado País de las Maravillas
+http://livetv-plus.com:8880/movie/edison2020/2020edison/661720.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La ironía del amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvfBXtJ1EB3asfpJcQCN9g9Eijf.jpg" group-title="ESTRENOS 2026",La ironía del amor
+http://livetv-plus.com:8880/movie/edison2020/2020edison/661569.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Yo antes de ser yo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSSsjV7hvVS6gBaP9Sua5DEFaEh.jpg" group-title="ESTRENOS 2026",Yo antes de ser yo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/661557.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Muerte De Robin Hood" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qLBTkJ3SPSi0s2uCj0E6WfR309.jpg" group-title="ESTRENOS 2026",La Muerte De Robin Hood
+http://livetv-plus.com:8880/movie/edison2020/2020edison/661394.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Papá a Cargo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qox5OvknYs1XJqw3aS3d9CvSEKO.jpg" group-title="ESTRENOS 2026",Papá a Cargo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/661343.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Golden Kamuy: Asalto a la prisión de Abashiri" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82GKBbN5ovZJiz5H2dSbDBrHcJ2.jpg" group-title="ESTRENOS 2026",Golden Kamuy: Asalto a la prisión de Abashiri
+http://livetv-plus.com:8880/movie/edison2020/2020edison/661340.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Moana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iq7yh7zOLGLp4TGNCYmd29FVy8H.jpg" group-title="ESTRENOS 2026",Moana
+http://livetv-plus.com:8880/movie/edison2020/2020edison/661278.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Susana y Elvira: Sin plan B" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amqNq4a3cugpf48nfpZFJwnFzbb.jpg" group-title="ESTRENOS 2026",Susana y Elvira: Sin plan B
+http://livetv-plus.com:8880/movie/edison2020/2020edison/661272.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Boulevard" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvk8wxyQXLlrBIMuglDxdMYLgBW.jpg" group-title="ESTRENOS 2026",Boulevard
+http://livetv-plus.com:8880/movie/edison2020/2020edison/660949.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MCnV8wb1tODOrM8NmWAuPWm40Y.jpg" group-title="ESTRENOS 2026",Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/660946.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El Pasajero Del Diablo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9s0EfBsZVpg2iScoJBVf3WOxWO.jpg" group-title="ESTRENOS 2026",El Pasajero Del Diablo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/660856.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Naufragio: Pesadilla en el mar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fajvS5shOnQFiSTyyzcEBPZPoQ3.jpg" group-title="ESTRENOS 2026",Naufragio: Pesadilla en el mar
+http://livetv-plus.com:8880/movie/edison2020/2020edison/660853.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ikka" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y35NPzuvfIbPQyhwnV4dBTqS76h.jpg" group-title="ESTRENOS 2026",Ikka
+http://livetv-plus.com:8880/movie/edison2020/2020edison/660850.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Los Simpson: Simpsley" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg" group-title="ESTRENOS 2026",Los Simpson: Simpsley
+http://livetv-plus.com:8880/movie/edison2020/2020edison/660757.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hasta el final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaedoBmTuQ3zutjUxDvd2YpsHyQ.jpg" group-title="ESTRENOS 2026",Hasta el final
+http://livetv-plus.com:8880/movie/edison2020/2020edison/660754.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El Día D: Bajo presión" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0PeqfICHgKnQ2f8YxyRJAg62fK.jpg" group-title="ESTRENOS 2026",El Día D: Bajo presión
+http://livetv-plus.com:8880/movie/edison2020/2020edison/660683.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Normal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KmqwmCPrrs06qHFmwx4kzB58kJ.jpg" group-title="ESTRENOS 2026",Normal
+http://livetv-plus.com:8880/movie/edison2020/2020edison/660680.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Un Portero Muy Improbable" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qIny8wROLKOEe89YHJgkMHiBxA.jpg" group-title="ESTRENOS 2026",Un Portero Muy Improbable
+http://livetv-plus.com:8880/movie/edison2020/2020edison/660391.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Proyecto: El Internado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg" group-title="ESTRENOS 2026",Proyecto: El Internado
+http://livetv-plus.com:8880/movie/edison2020/2020edison/660388.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Balística" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8GUHZjNPSGLjUhi7HzVn9541bY.jpg" group-title="ESTRENOS 2026",Balística
+http://livetv-plus.com:8880/movie/edison2020/2020edison/660324.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Zona de riesgo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3On2pUX6KRJwI8Fp7xqJkKQdIv.jpg" group-title="ESTRENOS 2026",Zona de riesgo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/660305.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Minions & Monstruos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg" group-title="ESTRENOS 2026",Minions & Monstruos
+http://livetv-plus.com:8880/movie/edison2020/2020edison/660302.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sin Censura: La Historia De Robin Byrd" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApmyB3G71Gj83rjtIhxdolZ38Yu.jpg" group-title="ESTRENOS 2026",Sin Censura: La Historia De Robin Byrd
+http://livetv-plus.com:8880/movie/edison2020/2020edison/659714.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Enola Holmes 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg" group-title="ESTRENOS 2026",Enola Holmes 3
+http://livetv-plus.com:8880/movie/edison2020/2020edison/659688.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Supergirl" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diEz9JG1UHEDTN0Yeri5sJZD7PL.jpg" group-title="ESTRENOS 2026",Supergirl
+http://livetv-plus.com:8880/movie/edison2020/2020edison/659377.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El día de la revelación" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pigU63pWFuXkq2MBc865GpFG4UP.jpg" group-title="ESTRENOS 2026",El día de la revelación
+http://livetv-plus.com:8880/movie/edison2020/2020edison/659374.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hermanito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8mudAYQcHmVoFSamqyv1Ron527.jpg" group-title="ESTRENOS 2026",Hermanito
+http://livetv-plus.com:8880/movie/edison2020/2020edison/659145.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Licencia para Robar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fX5HV8LC2tulHI2GT9Ar8WVFyg.jpg" group-title="ESTRENOS 2026",Licencia para Robar
+http://livetv-plus.com:8880/movie/edison2020/2020edison/659142.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El manuscrito de Dante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg" group-title="ESTRENOS 2026",El manuscrito de Dante
+http://livetv-plus.com:8880/movie/edison2020/2020edison/658979.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Familia Del Barrio: La Maldición del Quinto Partido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGZavJahqfBhaopeeiI4samtqyt.jpg" group-title="ESTRENOS 2026",La Familia Del Barrio: La Maldición del Quinto Partido
+http://livetv-plus.com:8880/movie/edison2020/2020edison/658916.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El último duelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4e3d9gjcwXScbYycgRQUcA30cJD.jpg" group-title="ESTRENOS 2026",El último duelo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/658910.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Maridos en acción" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg" group-title="ESTRENOS 2026",Maridos en acción
+http://livetv-plus.com:8880/movie/edison2020/2020edison/658342.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mensajes de voz para Isabelle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nY9BG8VjuxwLLRx5BGiiuj0M71.jpg" group-title="ESTRENOS 2026",Mensajes de voz para Isabelle
+http://livetv-plus.com:8880/movie/edison2020/2020edison/658339.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Toy Story 5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWWfKcQDldLgHQwXWakfE16D5vr.jpg" group-title="ESTRENOS 2026",Toy Story 5
+http://livetv-plus.com:8880/movie/edison2020/2020edison/658273.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Los Simpson: Extreme Makeover: Edición Homero" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vim76mMXig00YRxN2iGYJASoGkP.jpg" group-title="ESTRENOS 2026",Los Simpson: Extreme Makeover: Edición Homero
+http://livetv-plus.com:8880/movie/edison2020/2020edison/658266.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Culpa Tuya: Londres" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeOmayFaiGz6km5vShPpDBQnZf1.jpg" group-title="ESTRENOS 2026",Culpa Tuya: Londres
+http://livetv-plus.com:8880/movie/edison2020/2020edison/658263.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Instinto maternal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSY1K2wENhlpAEo2ASrtsezn0YH.jpg" group-title="ESTRENOS 2026",Instinto maternal
+http://livetv-plus.com:8880/movie/edison2020/2020edison/657317.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Torrente Presidente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Fn0PiGGiU74jIUelpce6z70i9.jpg" group-title="ESTRENOS 2026",Torrente Presidente
+http://livetv-plus.com:8880/movie/edison2020/2020edison/657158.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sobre tu Cadáver" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf7PDJZmBWEztHSgkGEdJc0Ptdk.jpg" group-title="ESTRENOS 2026",Sobre tu Cadáver
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656998.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Los Colores del Mal: Negro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6J7FYPywQFF8ANoRRtceqIGpDM.jpg" group-title="ESTRENOS 2026",Los Colores del Mal: Negro
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656995.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La casa de la playa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/373mESpAt0wKpRgUd8MBh3tjBsD.jpg" group-title="ESTRENOS 2026",La casa de la playa
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656959.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Couture (Alta costura)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivXtlBv1UhZhAdIj2OouEAOuGf1.jpg" group-title="ESTRENOS 2026",Couture (Alta costura)
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656945.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tetracampeones: Brasil volvió a creer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vW1BD3416Ev2rdB7CHKXGnzdGv.jpg" group-title="ESTRENOS 2026",Tetracampeones: Brasil volvió a creer
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656839.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Amos del Universo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDw6Qp3aNZ5x8hWZl35nR2qvMqk.jpg" group-title="ESTRENOS 2026",Amos del Universo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656836.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Backrooms: Sin salida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8nrM9hCTxoeX96HmTQpC0HbkMY.jpg" group-title="ESTRENOS 2026",Backrooms: Sin salida
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656833.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Messi: La Cinta Olvidada" tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/2x3.jpg?width=400&cb=12&source=https://artwork.espncdn.com/categories/12361cc3-af3b-4566-b18b-d670fdc6eb33/2x3/1440x2160_20260507200532.png" group-title="ESTRENOS 2026",Messi: La Cinta Olvidada
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656807.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La desconocida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrjKPBd4ieJMSxO7n5GothE9WAB.jpg" group-title="ESTRENOS 2026",La desconocida
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656354.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Turbulencia en la oficina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTGToWluGxIsQJzRJCkCqhfjVtd.jpg" group-title="ESTRENOS 2026",Turbulencia en la oficina
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656320.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="México 86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ie0evW3npWrB25prNSKOdlEamSd.jpg" group-title="ESTRENOS 2026",México 86
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656317.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Scary Movie: Terroríficamente incorrecta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg" group-title="ESTRENOS 2026",Scary Movie: Terroríficamente incorrecta
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656218.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Poldi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gy44bwe2NuHZ06kpM5HwfBAKkxP.jpg" group-title="ESTRENOS 2026",Poldi
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656081.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="¡Ay, mamá!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg" group-title="ESTRENOS 2026",¡Ay, mamá!
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656072.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El asesinato de Rachel Nickell" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibTNWrpUGsSuv7PbVRIgr97jDVs.jpg" group-title="ESTRENOS 2026",El asesinato de Rachel Nickell
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656069.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La casaca de Dios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v56hSpcEnS0joV9lUn9bKpPdktl.jpg" group-title="ESTRENOS 2026",La casaca de Dios
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656058.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Risa y la cabina del viento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35TwcuX3wvOV3M06BOwVWIMnJTs.jpg" group-title="ESTRENOS 2026",Risa y la cabina del viento
+http://livetv-plus.com:8880/movie/edison2020/2020edison/656052.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Psycho Killer: Asesino serial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg" group-title="ESTRENOS 2026",Psycho Killer: Asesino serial
+http://livetv-plus.com:8880/movie/edison2020/2020edison/655708.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Milky☆Subway: The Galactic Limited Express - La película" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brQf6Odu4S6WzfVLuXLbOcbsOP2.jpg" group-title="ESTRENOS 2026",Milky☆Subway: The Galactic Limited Express - La película
+http://livetv-plus.com:8880/movie/edison2020/2020edison/655699.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Wardriver" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4eMHiua2to9M9vmq5KjSCR2hec.jpg" group-title="ESTRENOS 2026",Wardriver
+http://livetv-plus.com:8880/movie/edison2020/2020edison/655518.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Velhos Bandidos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYZUzJMumKoUPX5Q40xBsgFs6dY.jpg" group-title="ESTRENOS 2026",Velhos Bandidos
+http://livetv-plus.com:8880/movie/edison2020/2020edison/655515.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Rebelión en la granja" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAGTQgOJbXG4L3qIlWQl1KFu90t.jpg" group-title="ESTRENOS 2026",Rebelión en la granja
+http://livetv-plus.com:8880/movie/edison2020/2020edison/655512.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Mandalorian and Grogu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSRaYCfsxgL8LWeBQOO4Syd5BQJ.jpg" group-title="ESTRENOS 2026",The Mandalorian and Grogu
+http://livetv-plus.com:8880/movie/edison2020/2020edison/655509.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El Mago Del Kremlin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MIurH7uaXGoEuOCXVoMZ3VGKMd.jpg" group-title="ESTRENOS 2026",El Mago Del Kremlin
+http://livetv-plus.com:8880/movie/edison2020/2020edison/655357.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ven a volar conmigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kG1FfRD3rONR1PCPPaSl1f5V8I.jpg" group-title="ESTRENOS 2026",Ven a volar conmigo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/655329.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Instinto Implacable" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1j1XEtLWtXnwK21FaICZBbKBjH.jpg" group-title="ESTRENOS 2026",Instinto Implacable
+http://livetv-plus.com:8880/movie/edison2020/2020edison/655326.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Dibu Martínez: El pibe que ataja el tiempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDbFSN7Jj0K4a7YFSV4OXQ4Lqhy.jpg" group-title="ESTRENOS 2026",Dibu Martínez: El pibe que ataja el tiempo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/655082.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Obsesión" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg" group-title="ESTRENOS 2026",Obsesión
+http://livetv-plus.com:8880/movie/edison2020/2020edison/655005.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="En La Zona Gris" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfgquGqeT6DtdsIzPPzTLRABBy0.jpg" group-title="ESTRENOS 2026",En La Zona Gris
+http://livetv-plus.com:8880/movie/edison2020/2020edison/654613.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hokum: La maldición de la bruja" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg" group-title="ESTRENOS 2026",Hokum: La maldición de la bruja
+http://livetv-plus.com:8880/movie/edison2020/2020edison/654610.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Las ovejas detectives" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iryjE7zrVxML5UM5vCPJGtKYvWC.jpg" group-title="ESTRENOS 2026",Las ovejas detectives
+http://livetv-plus.com:8880/movie/edison2020/2020edison/654607.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Gatástrofe de Rocky" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGOjSMs2S1YFNuJm6YTdoeOxAyi.jpg" group-title="ESTRENOS 2026",La Gatástrofe de Rocky
+http://livetv-plus.com:8880/movie/edison2020/2020edison/654571.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El Drama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IsyXDsvsNthbtdpM4qMwop1Gwo.jpg" group-title="ESTRENOS 2026",El Drama
+http://livetv-plus.com:8880/movie/edison2020/2020edison/654202.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Aída y vuelta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3k4FKVgaxUZo1CITvj2nFDyNNKy.jpg" group-title="ESTRENOS 2026",Aída y vuelta
+http://livetv-plus.com:8880/movie/edison2020/2020edison/654199.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Las damas primero" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjR56Yv17pbjTVBTMjqepvcus4f.jpg" group-title="ESTRENOS 2026",Las damas primero
+http://livetv-plus.com:8880/movie/edison2020/2020edison/654186.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Psicópata: El Asesino del Conejo Blanco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1J5GBWa3Rmbi3ZCUAPyEVPle8qk.jpg" group-title="ESTRENOS 2026",Psicópata: El Asesino del Conejo Blanco
+http://livetv-plus.com:8880/movie/edison2020/2020edison/653960.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Enterramos a los muertos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZqo0yPARmyF8TACVNyaOACkYWG.jpg" group-title="ESTRENOS 2026",Enterramos a los muertos
+http://livetv-plus.com:8880/movie/edison2020/2020edison/653954.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Jack Ryan de Tom Clancy: Guerra fantasma" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wiq6ld0p7AeWFlZsnXZfNKXIB2.jpg" group-title="ESTRENOS 2026",Jack Ryan de Tom Clancy: Guerra fantasma
+http://livetv-plus.com:8880/movie/edison2020/2020edison/653838.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El último depredador" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oX64BrJsndCn1f8bXcvyf5Sc4P.jpg" group-title="ESTRENOS 2026",El último depredador
+http://livetv-plus.com:8880/movie/edison2020/2020edison/653832.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La posesión de la momia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RhY8eHWzvjw32449pHdUkOeDCN.jpg" group-title="ESTRENOS 2026",La posesión de la momia
+http://livetv-plus.com:8880/movie/edison2020/2020edison/653540.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KARTAVYA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyJG0JzeZTo37giko4UJVVFktld.jpg" group-title="ESTRENOS 2026",KARTAVYA
+http://livetv-plus.com:8880/movie/edison2020/2020edison/652902.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La novia del año" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AiO7wnTrY5ktq0pLco3eS6g8NL.jpg" group-title="ESTRENOS 2026",La novia del año
+http://livetv-plus.com:8880/movie/edison2020/2020edison/652899.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El autobús: La huelga de la selección francesa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOsS71qbsHDjGkjnOACvz4Pvfee.jpg" group-title="ESTRENOS 2026",El autobús: La huelga de la selección francesa
+http://livetv-plus.com:8880/movie/edison2020/2020edison/652593.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="The Punisher: La última muerte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FQQFS8vO3Q9oJBRLPCYj8Keikg.jpg" group-title="ESTRENOS 2026",The Punisher: La última muerte
+http://livetv-plus.com:8880/movie/edison2020/2020edison/652550.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Si solo pudiera imaginar 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25R6U0xHikFbhDN69dUnzI4FIlz.jpg" group-title="ESTRENOS 2026",Si solo pudiera imaginar 2
+http://livetv-plus.com:8880/movie/edison2020/2020edison/652431.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="No es país para solteros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/in1iQGN5g2nDwD20EVHT294jDvr.jpg" group-title="ESTRENOS 2026",No es país para solteros
+http://livetv-plus.com:8880/movie/edison2020/2020edison/652425.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Marty, Life Is Short: El documental" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWgqvwe2MlDYXaXQ81XdgcJspMS.jpg" group-title="ESTRENOS 2026",Marty, Life Is Short: El documental
+http://livetv-plus.com:8880/movie/edison2020/2020edison/652419.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Al descubierto en el Reino Unido: Jamie Vardy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYfOS65DWjyLXZ0E37YckTAXMb.jpg" group-title="ESTRENOS 2026",Al descubierto en el Reino Unido: Jamie Vardy
+http://livetv-plus.com:8880/movie/edison2020/2020edison/652416.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mortal Kombat II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivVKHht5jutNGnObn1y5sSDrAXn.jpg" group-title="ESTRENOS 2026",Mortal Kombat II
+http://livetv-plus.com:8880/movie/edison2020/2020edison/652219.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Socias por accidente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0CIVzeR7hRAPBPGR54qDZoOQpp.jpg" group-title="ESTRENOS 2026",Socias por accidente
+http://livetv-plus.com:8880/movie/edison2020/2020edison/651925.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Criaturas luminosas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8I2O28Y0avRiKDfdzdkAKbSLxft.jpg" group-title="ESTRENOS 2026",Criaturas luminosas
+http://livetv-plus.com:8880/movie/edison2020/2020edison/651350.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sangre asesina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16TvbhCP8CfiGEbxcbtQLYWO6WG.jpg" group-title="ESTRENOS 2026",Sangre asesina
+http://livetv-plus.com:8880/movie/edison2020/2020edison/651196.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Gary" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg" group-title="ESTRENOS 2026",Gary
+http://livetv-plus.com:8880/movie/edison2020/2020edison/650986.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Familia a la deriva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuAGDBfrVNjcmyObU79lbwMLqJz.jpg" group-title="ESTRENOS 2026",Familia a la deriva
+http://livetv-plus.com:8880/movie/edison2020/2020edison/650537.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Intercambiados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFMqLI43ybVFyarJTnfV9YO9KUC.jpg" group-title="ESTRENOS 2026",Intercambiados
+http://livetv-plus.com:8880/movie/edison2020/2020edison/650483.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El yerno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVkNgA7K5dnv26X6PFK8TkY2kFD.jpg" group-title="ESTRENOS 2026",El yerno
+http://livetv-plus.com:8880/movie/edison2020/2020edison/650322.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mi querida señorita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPMb6ECpefJXtXRV0C5Qx45HprA.jpg" group-title="ESTRENOS 2026",Mi querida señorita
+http://livetv-plus.com:8880/movie/edison2020/2020edison/650319.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El diablo viste a la moda 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="ESTRENOS 2026",El diablo viste a la moda 2
+http://livetv-plus.com:8880/movie/edison2020/2020edison/650303.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Me llamo Agneta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4D2Mj3oyCx9PsYl8GPv0O0rIprt.jpg" group-title="ESTRENOS 2026",Me llamo Agneta
+http://livetv-plus.com:8880/movie/edison2020/2020edison/650009.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Te van a matar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg" group-title="ESTRENOS 2026",Te van a matar
+http://livetv-plus.com:8880/movie/edison2020/2020edison/649269.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sobriedad, Me Estás Matando" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTUSjR9LUeV4FaZu2oFYSlzLmQw.jpg" group-title="ESTRENOS 2026",Sobriedad, Me Estás Matando
+http://livetv-plus.com:8880/movie/edison2020/2020edison/648625.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ápex" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg" group-title="ESTRENOS 2026",Ápex
+http://livetv-plus.com:8880/movie/edison2020/2020edison/648622.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Proyecto Fin del Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fApxPaHp4Mho7YnJ7tRiV0STdCA.jpg" group-title="ESTRENOS 2026",Proyecto Fin del Mundo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/648477.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Espantoso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycYv5bhMLJG3wt0I5xFY13Z7PsU.jpg" group-title="ESTRENOS 2026",Espantoso
+http://livetv-plus.com:8880/movie/edison2020/2020edison/648451.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Michael" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg" group-title="ESTRENOS 2026",Michael
+http://livetv-plus.com:8880/movie/edison2020/2020edison/648444.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Al descubierto: El tiroteo en Hawthorne Hill" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTNgd8wANnYBcCe9N5FsBavdkrc.jpg" group-title="ESTRENOS 2026",Al descubierto: El tiroteo en Hawthorne Hill
+http://livetv-plus.com:8880/movie/edison2020/2020edison/647878.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="180" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="ESTRENOS 2026",180
+http://livetv-plus.com:8880/movie/edison2020/2020edison/647407.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Compañeras de cuarto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHOBxFzUK2CHmQ5djuOneyHkptS.jpg" group-title="ESTRENOS 2026",Compañeras de cuarto
+http://livetv-plus.com:8880/movie/edison2020/2020edison/647252.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La caja azul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg" group-title="ESTRENOS 2026",La caja azul
+http://livetv-plus.com:8880/movie/edison2020/2020edison/647249.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Venganza" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg" group-title="ESTRENOS 2026",Venganza
+http://livetv-plus.com:8880/movie/edison2020/2020edison/647246.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="¿Quieres Ser Mi Novia?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg" group-title="ESTRENOS 2026",¿Quieres Ser Mi Novia?
+http://livetv-plus.com:8880/movie/edison2020/2020edison/647104.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Bolas arriba" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVybc3pLqHSoMC73kElu93oJBRQ.jpg" group-title="ESTRENOS 2026",Bolas arriba
+http://livetv-plus.com:8880/movie/edison2020/2020edison/646840.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La Tostadora" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg" group-title="ESTRENOS 2026",La Tostadora
+http://livetv-plus.com:8880/movie/edison2020/2020edison/646837.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Noah Kahan: Extracorporal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VtZAonOgK8hae7FwOZCSg7XmCu.jpg" group-title="ESTRENOS 2026",Noah Kahan: Extracorporal
+http://livetv-plus.com:8880/movie/edison2020/2020edison/646562.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La huella del oro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldroECj55Ay4Qh4gUlbKEttly4i.jpg" group-title="ESTRENOS 2026",La huella del oro
+http://livetv-plus.com:8880/movie/edison2020/2020edison/646406.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="No te olvidaré" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPJ4V6o5PttdBmHoehdOtWqQ6gx.jpg" group-title="ESTRENOS 2026",No te olvidaré
+http://livetv-plus.com:8880/movie/edison2020/2020edison/646364.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Embestida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osYy4GDE4nr69MGTJxRaZlqU82S.jpg" group-title="ESTRENOS 2026",Embestida
+http://livetv-plus.com:8880/movie/edison2020/2020edison/645755.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Outcome" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uriReigJBf5zVBNaHj5C9kDDTe.jpg" group-title="ESTRENOS 2026",Outcome
+http://livetv-plus.com:8880/movie/edison2020/2020edison/645752.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="18 rosas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pUwaXT6tdA6sek8o6SdFYudJDj.jpg" group-title="ESTRENOS 2026",18 rosas
+http://livetv-plus.com:8880/movie/edison2020/2020edison/645559.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Francotirador: Sin Nación" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEkJx9RSWiUrIf42AgFGBOdnKzw.jpg" group-title="ESTRENOS 2026",Francotirador: Sin Nación
+http://livetv-plus.com:8880/movie/edison2020/2020edison/644851.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Al descubierto: Jaque al rey" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQXUZV8RQPl3HFxoXpeBhg1yXPh.jpg" group-title="ESTRENOS 2026",Al descubierto: Jaque al rey
+http://livetv-plus.com:8880/movie/edison2020/2020edison/644726.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="¡La novia!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRFCTTdj9M2hukPKOU3vVNcDnDD.jpg" group-title="ESTRENOS 2026",¡La novia!
+http://livetv-plus.com:8880/movie/edison2020/2020edison/644533.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="En busca de Harry: El arte detrás de la magia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9kNDfpOG7o2W6mHfUltypvZEPa.jpg" group-title="ESTRENOS 2026",En busca de Harry: El arte detrás de la magia
+http://livetv-plus.com:8880/movie/edison2020/2020edison/644524.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Boda sangrienta 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQV0X354U142Cao8Be6eUt38spS.jpg" group-title="ESTRENOS 2026",Boda sangrienta 2
+http://livetv-plus.com:8880/movie/edison2020/2020edison/644521.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sobran las palabras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBlmBP31u9BTjQNQ0UR1uNZf8ff.jpg" group-title="ESTRENOS 2026",Sobran las palabras
+http://livetv-plus.com:8880/movie/edison2020/2020edison/644518.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Vadh 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KFcPRcv7hNUhaxlCU14FybwkcP.jpg" group-title="ESTRENOS 2026",Vadh 2
+http://livetv-plus.com:8880/movie/edison2020/2020edison/644515.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hasta Que Amanezca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DU4jyJ7veZhdb4BzdZtzP6xzJr.jpg" group-title="ESTRENOS 2026",Hasta Que Amanezca
+http://livetv-plus.com:8880/movie/edison2020/2020edison/644446.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Super Mario Galaxy: La película" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLQQMO77ohibggTKV6wmFs5LHYf.jpg" group-title="ESTRENOS 2026",Super Mario Galaxy: La película
+http://livetv-plus.com:8880/movie/edison2020/2020edison/644058.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Caminos del crimen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miotpWL3RXeTvLJnkhaoWcbXvJf.jpg" group-title="ESTRENOS 2026",Caminos del crimen
+http://livetv-plus.com:8880/movie/edison2020/2020edison/643764.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Un pueblo al rescate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXxFrrKMMu4gipC8kVoplzo0HAr.jpg" group-title="ESTRENOS 2026",Un pueblo al rescate
+http://livetv-plus.com:8880/movie/edison2020/2020edison/643761.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El último gigante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxQE2GmdabPcLQtrG0ik2MYyMu3.jpg" group-title="ESTRENOS 2026",El último gigante
+http://livetv-plus.com:8880/movie/edison2020/2020edison/643758.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Comer, rezar, ladrar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQdmyrSU0ySNkZMOq3URaDhUvdq.jpg" group-title="ESTRENOS 2026",Comer, rezar, ladrar
+http://livetv-plus.com:8880/movie/edison2020/2020edison/643755.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Clika" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dIbx6Lr1ENz1QxAvyUAWL5kWbVG.jpg" group-title="ESTRENOS 2026",Clika
+http://livetv-plus.com:8880/movie/edison2020/2020edison/643612.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Inthum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7sCSLEPRfV2fWQ0RYOtHhnHXuG.jpg" group-title="ESTRENOS 2026",Inthum
+http://livetv-plus.com:8880/movie/edison2020/2020edison/643609.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La mujer policía 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHxLBtHw4InwsVumnthupZYz6NM.jpg" group-title="ESTRENOS 2026",La mujer policía 3
+http://livetv-plus.com:8880/movie/edison2020/2020edison/643209.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Versa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thChYFyn6rP1Mu52cKsmG57ZExI.jpg" group-title="ESTRENOS 2026",Versa
+http://livetv-plus.com:8880/movie/edison2020/2020edison/642876.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Jugada maestra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kI6OIy47E7hr9OOESV1DUDuBkqT.jpg" group-title="ESTRENOS 2026",Jugada maestra
+http://livetv-plus.com:8880/movie/edison2020/2020edison/642857.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="53 domingos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlgGaC3OZfs6F9Kcg4as6StvJFG.jpg" group-title="ESTRENOS 2026",53 domingos
+http://livetv-plus.com:8880/movie/edison2020/2020edison/642832.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La virgen de la tosquera" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoejV5MRn2bl6kPJBAC3OC1qPMT.jpg" group-title="ESTRENOS 2026",La virgen de la tosquera
+http://livetv-plus.com:8880/movie/edison2020/2020edison/642789.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BTS: El Regreso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1NVILoUn4hI8zEFNKoP0K5WDgO.jpg" group-title="ESTRENOS 2026",BTS: El Regreso
+http://livetv-plus.com:8880/movie/edison2020/2020edison/642783.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mike & Nick & Nick & Alice" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg" group-title="ESTRENOS 2026",Mike & Nick & Nick & Alice
+http://livetv-plus.com:8880/movie/edison2020/2020edison/642780.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La línea roja" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/at29WEJ7lmFua6eWz79B6XFhfu2.jpg" group-title="ESTRENOS 2026",La línea roja
+http://livetv-plus.com:8880/movie/edison2020/2020edison/642577.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Lindas y Letales" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmZqxJQ9MdNQEoD49HYghOXsiwH.jpg" group-title="ESTRENOS 2026",Lindas y Letales
+http://livetv-plus.com:8880/movie/edison2020/2020edison/642439.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hannah Montana: Especial 20° aniversario" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4I2Lnm4ianYWuX0xptQRM6wews6.jpg" group-title="ESTRENOS 2026",Hannah Montana: Especial 20° aniversario
+http://livetv-plus.com:8880/movie/edison2020/2020edison/642215.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Violencia en la frontera 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUcttG71zo9deP4m9sDhYPUcvi5.jpg" group-title="ESTRENOS 2026",Violencia en la frontera 2
+http://livetv-plus.com:8880/movie/edison2020/2020edison/642047.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El Día del Fin del Mundo: Migración" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuKUs5efZ5rPfJRbOJtJXaqLNk0.jpg" group-title="ESTRENOS 2026",El Día del Fin del Mundo: Migración
+http://livetv-plus.com:8880/movie/edison2020/2020edison/641990.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="BTS: EL COMEBACK EN VIVO | ARIRANG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djHsJ1NxQl7htun7osNJXrUmazQ.jpg" group-title="ESTRENOS 2026",BTS: EL COMEBACK EN VIVO | ARIRANG
+http://livetv-plus.com:8880/movie/edison2020/2020edison/641981.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Zeta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEFMZGcmxBDCodbLAqmrjdjCTwm.jpg" group-title="ESTRENOS 2026",Zeta
+http://livetv-plus.com:8880/movie/edison2020/2020edison/641579.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hoppers: Operación castor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NRpCaksHX0FEsXCNITOvhq7cZ3.jpg" group-title="ESTRENOS 2026",Hoppers: Operación castor
+http://livetv-plus.com:8880/movie/edison2020/2020edison/641451.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Peaky Blinders: El hombre inmortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="ESTRENOS 2026",Peaky Blinders: El hombre inmortal
+http://livetv-plus.com:8880/movie/edison2020/2020edison/641158.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Patrulla Nocturna" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNqLzACU9ez2ehDalTFDPjZiC4G.jpg" group-title="ESTRENOS 2026",Patrulla Nocturna
+http://livetv-plus.com:8880/movie/edison2020/2020edison/641007.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Un hombre por semana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHwOvosfDFRsjBihdh9dIHnMgbO.jpg" group-title="ESTRENOS 2026",Un hombre por semana
+http://livetv-plus.com:8880/movie/edison2020/2020edison/640581.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Scream 7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XhV5Sk7w4h2tCNvXovkFfTNRli.jpg" group-title="ESTRENOS 2026",Scream 7
+http://livetv-plus.com:8880/movie/edison2020/2020edison/640519.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="GOAT: La cabra que cambió el juego" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dH7p6eAfzDElYYFKfYWpf9xlsG.jpg" group-title="ESTRENOS 2026",GOAT: La cabra que cambió el juego
+http://livetv-plus.com:8880/movie/edison2020/2020edison/640472.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Un destino en Corea" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foEObhyAMM3dxYeBEr242EdQDB7.jpg" group-title="ESTRENOS 2026",Un destino en Corea
+http://livetv-plus.com:8880/movie/edison2020/2020edison/639573.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Solo Mio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efSsZJaddeq0LOABZqpCXdMxv9P.jpg" group-title="ESTRENOS 2026",Solo Mio
+http://livetv-plus.com:8880/movie/edison2020/2020edison/639570.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sin piedad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgqAZeEI5hnAgeVZ0kAdYiPy1Rs.jpg" group-title="ESTRENOS 2026",Sin piedad
+http://livetv-plus.com:8880/movie/edison2020/2020edison/639567.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Alerta Extinción" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aioKGmYADqq09GEIY9vPhK5xoza.jpg" group-title="ESTRENOS 2026",Alerta Extinción
+http://livetv-plus.com:8880/movie/edison2020/2020edison/639165.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Matar, Vengar, Repetir" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzuvCZNKF2jnZ6amc0SP5AjclNK.jpg" group-title="ESTRENOS 2026",Matar, Vengar, Repetir
+http://livetv-plus.com:8880/movie/edison2020/2020edison/639159.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Máquina de guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5YmQx9kPLQBHEboGwrAavypztB.jpg" group-title="ESTRENOS 2026",Máquina de guerra
+http://livetv-plus.com:8880/movie/edison2020/2020edison/638807.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Parque Lezama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckBRproYQsXAJGtyejKjDr5ZcBU.jpg" group-title="ESTRENOS 2026",Parque Lezama
+http://livetv-plus.com:8880/movie/edison2020/2020edison/638804.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El sonido de la muerte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cApRXj6meulAQMYQrhjfVvZEItl.jpg" group-title="ESTRENOS 2026",El sonido de la muerte
+http://livetv-plus.com:8880/movie/edison2020/2020edison/638693.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="“Cumbres Borrascosas”" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCb3QJNLi0alrk7i5aCphkkuoFl.jpg" group-title="ESTRENOS 2026",“Cumbres Borrascosas”
+http://livetv-plus.com:8880/movie/edison2020/2020edison/638671.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Flow callejero 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTCQ9KPhMWUM6mHWZzR4Ws1gl74.jpg" group-title="ESTRENOS 2026",Flow callejero 3
+http://livetv-plus.com:8880/movie/edison2020/2020edison/638549.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El Guardián: Último refugio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg" group-title="ESTRENOS 2026",El Guardián: Último refugio
+http://livetv-plus.com:8880/movie/edison2020/2020edison/638083.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="En un abrir y cerrar de ojos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r29MQ8wAe89iBhFdtTQb8vmtIsu.jpg" group-title="ESTRENOS 2026",En un abrir y cerrar de ojos
+http://livetv-plus.com:8880/movie/edison2020/2020edison/638080.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Acusada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkQJz9mhx9JHQbs8uRN86S6r4Ko.jpg" group-title="ESTRENOS 2026",Acusada
+http://livetv-plus.com:8880/movie/edison2020/2020edison/637968.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El engaño" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuIP7lRgzSjaZ4CT33WHfctLARs.jpg" group-title="ESTRENOS 2026",El engaño
+http://livetv-plus.com:8880/movie/edison2020/2020edison/637724.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Pavana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22RlxpIT4u4psfIx9tmtbPvgAbm.jpg" group-title="ESTRENOS 2026",Pavana
+http://livetv-plus.com:8880/movie/edison2020/2020edison/637109.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Cortafuego" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg" group-title="ESTRENOS 2026",Cortafuego
+http://livetv-plus.com:8880/movie/edison2020/2020edison/637088.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El vínculo sueco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snlnvSB232OZwPCuO8zkWYJ6P7j.jpg" group-title="ESTRENOS 2026",El vínculo sueco
+http://livetv-plus.com:8880/movie/edison2020/2020edison/637008.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="¡Ayuda!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29PEVnEskJssQt8Wmj2hVgNfl2z.jpg" group-title="ESTRENOS 2026",¡Ayuda!
+http://livetv-plus.com:8880/movie/edison2020/2020edison/636822.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Love Me, Love Me" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfwHKRHRE2X4NTexdzblaioHH51.jpg" group-title="ESTRENOS 2026",Love Me, Love Me
+http://livetv-plus.com:8880/movie/edison2020/2020edison/636388.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El tour universitario con Joe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zp5RN4grAHUeCc9B7LKZcuu6HH5.jpg" group-title="ESTRENOS 2026",El tour universitario con Joe
+http://livetv-plus.com:8880/movie/edison2020/2020edison/636365.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Aviso general: Hermandad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdyCFS4jUzp7kghoptaiYqir48X.jpg" group-title="ESTRENOS 2026",Aviso general: Hermandad
+http://livetv-plus.com:8880/movie/edison2020/2020edison/636059.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Los extraños: Capítulo 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPegTig8dQNYiW2UW21LTNChGkK.jpg" group-title="ESTRENOS 2026",Los extraños: Capítulo 3
+http://livetv-plus.com:8880/movie/edison2020/2020edison/635865.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Ahí estoy yo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nTqw569IFEZtCMKaRYPH2vnEzG.jpg" group-title="ESTRENOS 2026",Ahí estoy yo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/635853.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Super Bowl LX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC-c08IJITAvgaVKZ0c7xcV5tE0nAuCLz2yA&s" group-title="ESTRENOS 2026",Super Bowl LX
+http://livetv-plus.com:8880/movie/edison2020/2020edison/635768.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Super Bowl LX Halftime Show" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lie8FP9NOQlxz3Ld0fBdorF8eN.jpg" group-title="ESTRENOS 2026",Super Bowl LX Halftime Show
+http://livetv-plus.com:8880/movie/edison2020/2020edison/635765.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="¡Uf! ¿Solo amigos?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDMDiDdpL8ntmo1biqdbVfrFih7.jpg" group-title="ESTRENOS 2026",¡Uf! ¿Solo amigos?
+http://livetv-plus.com:8880/movie/edison2020/2020edison/635428.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La investigación sobre Lucy Letby" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhNThwc72GqihJhXaP29Af5hJ2A.jpg" group-title="ESTRENOS 2026",La investigación sobre Lucy Letby
+http://livetv-plus.com:8880/movie/edison2020/2020edison/635316.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La meta es el amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UE5pQOuuANo17V3TjXBbHYvutj.jpg" group-title="ESTRENOS 2026",La meta es el amor
+http://livetv-plus.com:8880/movie/edison2020/2020edison/635215.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Los Muppets: Un show especial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6HhF5TuaaMPRFFaDOJh3r6zubQ.jpg" group-title="ESTRENOS 2026",Los Muppets: Un show especial
+http://livetv-plus.com:8880/movie/edison2020/2020edison/635212.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Aunque nuestro amor se desvanezca esta noche" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMA6E5cu1QUMehjBZOjWjqQjhey.jpg" group-title="ESTRENOS 2026",Aunque nuestro amor se desvanezca esta noche
+http://livetv-plus.com:8880/movie/edison2020/2020edison/635000.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Una carta a mi juventud" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxwgHtSCcUeo21jwui1i2KYKhr9.jpg" group-title="ESTRENOS 2026",Una carta a mi juventud
+http://livetv-plus.com:8880/movie/edison2020/2020edison/633991.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Equipo Demolición" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pG39vgTEhHeYIlcPJtHpxNLdPPM.jpg" group-title="ESTRENOS 2026",Equipo Demolición
+http://livetv-plus.com:8880/movie/edison2020/2020edison/633974.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Terror en Silent Hill: Regreso al infierno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afTkeXGBGhp3jekam0vG1dQihOr.jpg" group-title="ESTRENOS 2026",Terror en Silent Hill: Regreso al infierno
+http://livetv-plus.com:8880/movie/edison2020/2020edison/633680.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El falsario" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJFvxY8S3kM7h2ScWhfVozROstF.jpg" group-title="ESTRENOS 2026",El falsario
+http://livetv-plus.com:8880/movie/edison2020/2020edison/633538.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El cautivo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vfxMQ3WEA8goCH7LXlAzED9aed.jpg" group-title="ESTRENOS 2026",El cautivo
+http://livetv-plus.com:8880/movie/edison2020/2020edison/633531.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="La princesa Kaguya del cosmos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwFXqXh1LRxEYg94IyF8wAHsWOT.jpg" group-title="ESTRENOS 2026",La princesa Kaguya del cosmos
+http://livetv-plus.com:8880/movie/edison2020/2020edison/633232.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="De las cenizas: Bajo tierra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OBRXbnlhZxMPpfLMLzQwF29IMC.jpg" group-title="ESTRENOS 2026",De las cenizas: Bajo tierra
+http://livetv-plus.com:8880/movie/edison2020/2020edison/633229.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tom y Jerry: La Brújula Mágica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLomNIDmKBTuvtQtIFZ67N1mzsv.jpg" group-title="ESTRENOS 2026",Tom y Jerry: La Brújula Mágica
+http://livetv-plus.com:8880/movie/edison2020/2020edison/632864.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Exterminio: El templo de huesos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qlqDX3lo7CiFCDZV1Qwopwm5rz.jpg" group-title="ESTRENOS 2026",Exterminio: El templo de huesos
+http://livetv-plus.com:8880/movie/edison2020/2020edison/632861.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="El botín" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="ESTRENOS 2026",El botín
+http://livetv-plus.com:8880/movie/edison2020/2020edison/632318.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Una última aventura: Detrás de cámaras de Stranger Things 5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGnbK8g0ikMIW2pa84ZdMiWMhQ5.jpg" group-title="ESTRENOS 2026",Una última aventura: Detrás de cámaras de Stranger Things 5
+http://livetv-plus.com:8880/movie/edison2020/2020edison/631713.mp4
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Gente que conocemos en vacaciones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg" group-title="ESTRENOS 2026",Gente que conocemos en vacaciones
+http://livetv-plus.com:8880/movie/edison2020/2020edison/631082.mp4
