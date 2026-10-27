@@ -1349,7 +1349,7 @@ https://24423.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney&bun
 https://27343.live.streamtheworld.com/AM790_56AAC.aac?dist=radiomitre_other_app_webplayer&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=512d5b61-102c-45d5-d08b-898dfa059e32
 
 #EXTINF:-1 tvg-logo="https://media.radio10.com.ar/adjuntos/220/imagenes/043/585/0043585232.png" group-title="Radio", Radio 10
-https://radio10.stweb.tv/radio10/live/l_9_73062045_9479.ts?nimblesessionid=2174469941
+https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzMjEzNzU3Iiwic2lwIjoiMTkwLjE3NS41NS44NSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvTm90aWNpYXMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImJiOWRkYWJkODgzMGM0ZTIiLCJzZXNzaW9uX2lkIjoiOWYyNGZmMmFjNjZmNTU3ODA3YTIyYTQ4YTUzZDczOGUtMTc5MzA0MDk1Ny04MjMiLCJjbGllbnRfaWQiOiJmbG93OjMyMTk0OTQtLWZsb3c6MzIxOTQ5NDpQIiwiZGV2aWNlX2lkIjoiOWYyNGZmMmFjNjZmNTU3ODA3YTIyYTQ4YTUzZDczOGUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzMzkiLCJzb3VyY2VzIjpbMjA5LDg1LDE0NCwyMTAsODYsODhdfQ==.vtXz7IgLn69nkjq3Y3DQfimlba_VRYh9kj-pNmwSedVBZPKAV8PB9kIqTyqIKDhOM4Zs4MTVT1BJGl71K9O3eg==/live/l_9_73062045_9479.ts?nimblesessionid=2174469941
 
 #EXTINF:-1 tvg-logo="https://www.lared.am/css-custom/316/images/logo-lared-nuevo.svg" group-title="Radio",La Red 
 https://24253.live.streamtheworld.com/LA_RED_AM910AAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=c83f195b-b5fb-4a21-e037-4fb7e86c675d.
@@ -1358,6 +1358,9 @@ https://24253.live.streamtheworld.com/LA_RED_AM910AAC.aac?dist=triton-widget&tds
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Vj0r5JD9nAk6o_YuvqUflObjedKjXHmbL4iptEUfsbtPUbxsrPJlqErc4f6j_8JS5JfFVLT_PQ=s68-c-k-c0x00ffffff-no-rj" group-title="Radio",El Destape
 https://live-ar1.cdnrad.com/hls/radio-2123/live.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.latina101.com.ar/favicon.png" group-title="Radio",Latina
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://rivadavia.com.ar/images/logo26b.png" group-title="Radio",Rivadavia
 https://27573.live.streamtheworld.com/RIVADAVIAAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=4d635e24-de0c-40a5-a2ed-2ac5bc5641c7
