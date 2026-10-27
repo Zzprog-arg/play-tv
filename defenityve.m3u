@@ -1,5 +1,6 @@
 Update 1.4.18
-Lista nro 1.15
+Lista nro 1.16
+Evento nro 1.02
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1372,39 +1373,24 @@ https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 
 
 
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://api.promiedos.com.ar/images/league/hc/1" hora="14:45", torneo="Liga Profecional De futbol"  Logo-Torneo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjzbtyrY0n3FZbXFyE62ykAVMTMHvB95GRT_giF2TJgqlrmd-_tCcrJqw&s=10" E1="https://api.promiedos.com.ar/images/team/ihi/1" E2="https://api.promiedos.com.ar/images/team/igj/1" group-title="Evento",Banfield VS LANÚS
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png" hora="19:00" group-title="Evento" torneo="Liga profesional de fútbol" Logo-Torneo="https://api.promiedos.com.ar/images/league/hc/1" E1="https://assets.football-logos.cc/logos/argentina/1500x1500/argeninos-juniors.3fed76dc.png" E2="https://assets.football-logos.cc/logos/argentina/1500x1500/independiente-rivadavia.f8dad054.png",Argeninos Juniors VS Independiente Rivadavia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fb56301bc7687baf0b1a61def9a007a:947d2294ba67256827e8e97f267e71e0
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzMjEzNzU3Iiwic2lwIjoiMTkwLjE3NS41NS44NSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvTm90aWNpYXMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImJiOWRkYWJkODgzMGM0ZTIiLCJzZXNzaW9uX2lkIjoiOWYyNGZmMmFjNjZmNTU3ODA3YTIyYTQ4YTUzZDczOGUtMTc5MzA0MDk1Ny04MjMiLCJjbGllbnRfaWQiOiJmbG93OjMyMTk0OTQtLWZsb3c6MzIxOTQ5NDpQIiwiZGV2aWNlX2lkIjoiOWYyNGZmMmFjNjZmNTU3ODA3YTIyYTQ4YTUzZDczOGUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzMzkiLCJzb3VyY2VzIjpbMjA5LDg1LDE0NCwyMTAsODYsODhdfQ==.vtXz7IgLn69nkjq3Y3DQfimlba_VRYh9kj-pNmwSedVBZPKAV8PB9kIqTyqIKDhOM4Zs4MTVT1BJGl71K9O3eg==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd
 
-
-#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://api.promiedos.com.ar/images/league/hc/1" hora="17:00" group-title="Evento" torneo="Liga Profecional De futbol" Logo-Torneo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjzbtyrY0n3FZbXFyE62ykAVMTMHvB95GRT_giF2TJgqlrmd-_tCcrJqw&s=10" E1="https://api.promiedos.com.ar/images/team/jche/1" E2="https://api.promiedos.com.ar/images/team/hcbh/1",Talleres de Córdoba VS Defensa y Justicia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c502892e037a9f34827147b2b24e42cf":"2531bd34bec6c0e8fa4e07aedb261ade"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzMjEzNzU3Iiwic2lwIjoiMTkwLjE3NS41NS44NSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvTm90aWNpYXMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImJiOWRkYWJkODgzMGM0ZTIiLCJzZXNzaW9uX2lkIjoiOWYyNGZmMmFjNjZmNTU3ODA3YTIyYTQ4YTUzZDczOGUtMTc5MzA0MDk1Ny04MjMiLCJjbGllbnRfaWQiOiJmbG93OjMyMTk0OTQtLWZsb3c6MzIxOTQ5NDpQIiwiZGV2aWNlX2lkIjoiOWYyNGZmMmFjNjZmNTU3ODA3YTIyYTQ4YTUzZDczOGUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzMzkiLCJzb3VyY2VzIjpbMjA5LDg1LDE0NCwyMTAsODYsODhdfQ==.vtXz7IgLn69nkjq3Y3DQfimlba_VRYh9kj-pNmwSedVBZPKAV8PB9kIqTyqIKDhOM4Zs4MTVT1BJGl71K9O3eg==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd
-
-#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://api.promiedos.com.ar/images/league/hc/1" hora="19:15" group-title="Evento" torneo="Liga Profecional De futbol" Logo-Torneo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjzbtyrY0n3FZbXFyE62ykAVMTMHvB95GRT_giF2TJgqlrmd-_tCcrJqw&s=10" E1="https://api.promiedos.com.ar/images/team/igf/1", E2="https://api.promiedos.com.ar/images/team/ihh/1",San Lorenzo VS Newell´s Old Boys
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png" hora="14:30" group-title="Evento" torneo="Serie A" Logo-Torneo="https://api.promiedos.com.ar/images/league/bh/1" E1="https://api.promiedos.com.ar/images/team/cgg/1" E2="https://assets.football-logos.cc/logos/italy/1500x1500/lazio.b6301260.png",Sassuolo VS Lazio
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fb56301bc7687baf0b1a61def9a007a:947d2294ba67256827e8e97f267e71e0
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzMjEzNzU3Iiwic2lwIjoiMTkwLjE3NS41NS44NSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvTm90aWNpYXMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImJiOWRkYWJkODgzMGM0ZTIiLCJzZXNzaW9uX2lkIjoiOWYyNGZmMmFjNjZmNTU3ODA3YTIyYTQ4YTUzZDczOGUtMTc5MzA0MDk1Ny04MjMiLCJjbGllbnRfaWQiOiJmbG93OjMyMTk0OTQtLWZsb3c6MzIxOTQ5NDpQIiwiZGV2aWNlX2lkIjoiOWYyNGZmMmFjNjZmNTU3ODA3YTIyYTQ4YTUzZDczOGUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzMzkiLCJzb3VyY2VzIjpbMjA5LDg1LDE0NCwyMTAsODYsODhdfQ==.vtXz7IgLn69nkjq3Y3DQfimlba_VRYh9kj-pNmwSedVBZPKAV8PB9kIqTyqIKDhOM4Zs4MTVT1BJGl71K9O3eg==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd
 
-#EXTINF:-1 tvg-id="2413" tvg-logo="https://api.promiedos.com.ar/images/league/hc/1" hora="21:30" group-title="Evento" torneo="Liga Profecional De futbol" Logo-Torneo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjzbtyrY0n3FZbXFyE62ykAVMTMHvB95GRT_giF2TJgqlrmd-_tCcrJqw&s=10" E1="https://api.promiedos.com.ar/images/team/ihf/1", E2="https://api.promiedos.com.ar/images/team/iie/1",Rosario Central VS Huracán
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c502892e037a9f34827147b2b24e42cf":"2531bd34bec6c0e8fa4e07aedb261ade"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzMjEzNzU3Iiwic2lwIjoiMTkwLjE3NS41NS44NSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvTm90aWNpYXMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImJiOWRkYWJkODgzMGM0ZTIiLCJzZXNzaW9uX2lkIjoiOWYyNGZmMmFjNjZmNTU3ODA3YTIyYTQ4YTUzZDczOGUtMTc5MzA0MDk1Ny04MjMiLCJjbGllbnRfaWQiOiJmbG93OjMyMTk0OTQtLWZsb3c6MzIxOTQ5NDpQIiwiZGV2aWNlX2lkIjoiOWYyNGZmMmFjNjZmNTU3ODA3YTIyYTQ4YTUzZDczOGUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzMzkiLCJzb3VyY2VzIjpbMjA5LDg1LDE0NCwyMTAsODYsODhdfQ==.vtXz7IgLn69nkjq3Y3DQfimlba_VRYh9kj-pNmwSedVBZPKAV8PB9kIqTyqIKDhOM4Zs4MTVT1BJGl71K9O3eg==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd
-
-
-#EXTINF:-1 tvg-id="1412" tvg-logo="https://api.promiedos.com.ar/images/league/bb/1" hora="16:00" group-title="Evento" torneo="Laliga" Logo-Torneo="https://api.promiedos.com.ar/images/league/bb/1" E1="https://api.promiedos.com.ar/images/team/bde/1" E2="https://api.promiedos.com.ar/images/team/bei/1",Atlético De Madrid VS RC Deportivo
+#EXTINF:-1 tvg-id="2413" tvg-logo="https://i.postimg.cc/0MCLmw7Z/ESPN-3-Argentina.png" hora="16:45" group-title="Evento" torneo="Serie A" Logo-Torneo="https://api.promiedos.com.ar/images/league/bh/1" E1="https://assets.football-logos.cc/logos/italy/1500x1500/roma.90753835.png" E2="https://assets.football-logos.cc/logos/italy/1500x1500/cagliari.040c0e0d.png",Roma VS Cagliari
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d079ffa3757e8335611fc48be6ba47ff":"05059d1cb21b6708a55e9c26fb38e2f3"}
+#KODIPROP:inputstream.adaptive.license_key=deeed0f44c6b45e064f4d5064486e821:bf89ceeb93564ddc603ba6afd8c9266a
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzMjEzNzU3Iiwic2lwIjoiMTkwLjE3NS41NS44NSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvTm90aWNpYXMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImJiOWRkYWJkODgzMGM0ZTIiLCJzZXNzaW9uX2lkIjoiOWYyNGZmMmFjNjZmNTU3ODA3YTIyYTQ4YTUzZDczOGUtMTc5MzA0MDk1Ny04MjMiLCJjbGllbnRfaWQiOiJmbG93OjMyMTk0OTQtLWZsb3c6MzIxOTQ5NDpQIiwiZGV2aWNlX2lkIjoiOWYyNGZmMmFjNjZmNTU3ODA3YTIyYTQ4YTUzZDczOGUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzMzkiLCJzb3VyY2VzIjpbMjA5LDg1LDE0NCwyMTAsODYsODhdfQ==.vtXz7IgLn69nkjq3Y3DQfimlba_VRYh9kj-pNmwSedVBZPKAV8PB9kIqTyqIKDhOM4Zs4MTVT1BJGl71K9O3eg==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzMjEzNzU3Iiwic2lwIjoiMTkwLjE3NS41NS44NSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Ub2RvTm90aWNpYXMvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImJiOWRkYWJkODgzMGM0ZTIiLCJzZXNzaW9uX2lkIjoiOWYyNGZmMmFjNjZmNTU3ODA3YTIyYTQ4YTUzZDczOGUtMTc5MzA0MDk1Ny04MjMiLCJjbGllbnRfaWQiOiJmbG93OjMyMTk0OTQtLWZsb3c6MzIxOTQ5NDpQIiwiZGV2aWNlX2lkIjoiOWYyNGZmMmFjNjZmNTU3ODA3YTIyYTQ4YTUzZDczOGUiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzMzkiLCJzb3VyY2VzIjpbMjA5LDg1LDE0NCwyMTAsODYsODhdfQ==.vtXz7IgLn69nkjq3Y3DQfimlba_VRYh9kj-pNmwSedVBZPKAV8PB9kIqTyqIKDhOM4Zs4MTVT1BJGl71K9O3eg==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
+
