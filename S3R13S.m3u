@@ -165,7 +165,7 @@ http://myultratv.com:8080/series/968450596tv/ft768psq2/75884.mp4
 http://myultratv.com:8080/series/968450596tv/ft768psq2/75885.mp4
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Agatha Christie: Las siete esferas S01 E01" tvg-logo="http://redworld.pro:8880/images/3b117f3fc02068e9dd9f635bbc0aad4f.jpg" group-title="⭐️Netflix ⭐️",Agatha Christie: Las siete esferas S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="Agatha Christie: Las siete esferas S01 E01" tvg-logo="http://redworld.pro:8880/images/3b117f3fc02068e9dd9f635bbc0aad4f.jpg" Etiqueta="True" Color="#E11D48" Text="Destacada" group-title="⭐️Netflix ⭐️",Agatha Christie: Las siete esferas S01 E01
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/469182.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Agatha Christie: Las siete esferas S01 E02" tvg-logo="http://redworld.pro:8880/images/b9f513c0e04766bd5f10019d4e25569a.jpg" group-title="⭐️Netflix ⭐️",Agatha Christie: Las siete esferas S01 E02
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/469183.mp4
@@ -331,7 +331,7 @@ http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/469262.mp4
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/469263.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Una estrella más brillante que el sol S01 E30" tvg-logo="http://redworld.pro:8880/images/da09176cf36a7ff420f984745a8a69af.jpg" group-title="⭐️Netflix ⭐️",Una estrella más brillante que el sol S01 E30
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/469264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La casa de papel: Corea S01 E01" tvg-logo="http://redworld.pro:8880/images/5a9d38d4e22425a11a5f84a247503441.jpg" group-title="⭐️Netflix ⭐️",La casa de papel: Corea S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel: Corea S01 E01" tvg-logo="http://redworld.pro:8880/images/5a9d38d4e22425a11a5f84a247503441.jpg" Etiqueta="True" Color="#E11D48" Text="Destacada group-title="⭐️Netflix ⭐️",La casa de papel: Corea S01 E01
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/469265.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La casa de papel: Corea S01 E02" tvg-logo="http://redworld.pro:8880/images/27d9a3fcdf4ed8bcaa414348eda3655c.jpg" group-title="⭐️Netflix ⭐️",La casa de papel: Corea S01 E02
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/469266.mp4
@@ -947,7 +947,7 @@ http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/505287.mp4
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/514096.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Humana por accidente S01 E12" tvg-logo="http://redworld.pro:8880/images/6251263116185993fd24a825ad8a27d0.jpg" group-title="⭐️Netflix ⭐️",Humana por accidente S01 E12
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/514117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La casa de papel S01 E01" tvg-logo="http://redworld.pro:8880/images/d7a6611aca1b51cfd5f8e63872dd87a6.jpg" group-title="⭐️Netflix ⭐️",La casa de papel S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel S01 E01" tvg-logo="http://redworld.pro:8880/images/d7a6611aca1b51cfd5f8e63872dd87a6.jpg" Etiqueta="True" Color="#E11D48" Text="Destacada group-title="⭐️Netflix ⭐️",La casa de papel S01 E01
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/470899.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La casa de papel S01 E02" tvg-logo="http://redworld.pro:8880/images/8f8be97944e33937230bd04d0bf869a9.jpg" group-title="⭐️Netflix ⭐️",La casa de papel S01 E02
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/470900.mp4
@@ -1029,7 +1029,7 @@ http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/470937.mp4
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/470938.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La casa de papel S03 E10" tvg-logo="http://redworld.pro:8880/images/8a6d966e910e92953dac60b0ef060e34.jpg" group-title="⭐️Netflix ⭐️",La casa de papel S03 E10
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/470939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de Papel: De Tokio a Berlín S01 E01" tvg-logo="http://redworld.pro:8880/images/568521094870ab6dd660a2729cd1fe70.jpg" group-title="⭐️Netflix ⭐️",La Casa de Papel: De Tokio a Berlín S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Papel: De Tokio a Berlín S01 E01" tvg-logo="http://redworld.pro:8880/images/568521094870ab6dd660a2729cd1fe70.jpg" Etiqueta="True" Color="#E11D48" Text="Destacada group-title="⭐️Netflix ⭐️",La Casa de Papel: De Tokio a Berlín S01 E01
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/470940.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La Casa de Papel: De Tokio a Berlín S01 E02" tvg-logo="http://redworld.pro:8880/images/1ec6c27d60a038f4a733c4c8c9fb098d.jpg" group-title="⭐️Netflix ⭐️",La Casa de Papel: De Tokio a Berlín S01 E02
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/470941.mp4
@@ -1529,7 +1529,7 @@ http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/471165.mp4
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/471166.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Regreso al pueblo S01 E08" tvg-logo="http://redworld.pro:8880/images/744deb65cd056fef1bdda1bc531734de.jpg" group-title="⭐️Netflix ⭐️",Regreso al pueblo S01 E08
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/471167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01 E01" tvg-logo="http://redworld.pro:8880/images/5979a0ee87056dc2e92a2c29f60bd140.jpg" group-title="⭐️Netflix ⭐️",Stranger Things S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01 E01" tvg-logo="http://redworld.pro:8880/images/5979a0ee87056dc2e92a2c29f60bd140.jpg" Etiqueta="True" Color="#E11D48" Text="Destacada group-title="⭐️Netflix ⭐️",Stranger Things S01 E01
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/471168.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01 E02" tvg-logo="http://redworld.pro:8880/images/9e6c09c6c2bb8e8e6468baf4daae6e3a.jpg" group-title="⭐️Netflix ⭐️",Stranger Things S01 E02
 http://superxlatino.com:8880/series/pandusertv0083432/zJ7UUzKbKzem/471169.mp4
